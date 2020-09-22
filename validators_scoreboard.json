@@ -1,78 +1,78 @@
 [
   {
     "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 1517189,
-    "num_produced_blocks": 1515906
+    "num_expected_blocks": 1521941,
+    "num_produced_blocks": 1520658
   },
   {
     "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 1496454,
-    "num_produced_blocks": 1495463
+    "num_expected_blocks": 1501206,
+    "num_produced_blocks": 1500215
   },
   {
     "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 1489538,
-    "num_produced_blocks": 1488557
+    "num_expected_blocks": 1494290,
+    "num_produced_blocks": 1493309
   },
   {
     "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 1197944,
-    "num_produced_blocks": 1162591
+    "num_expected_blocks": 1202264,
+    "num_produced_blocks": 1166911
   },
   {
     "account_id": "dsrvlabs.poolv1.near",
-    "num_expected_blocks": 86832,
-    "num_produced_blocks": 86787
+    "num_expected_blocks": 88128,
+    "num_produced_blocks": 88083
   },
   {
     "account_id": "dokiacapital.poolv1.near",
-    "num_expected_blocks": 85968,
-    "num_produced_blocks": 85863
+    "num_expected_blocks": 87264,
+    "num_produced_blocks": 87159
   },
   {
     "account_id": "cryptium.poolv1.near",
-    "num_expected_blocks": 85536,
-    "num_produced_blocks": 85257
+    "num_expected_blocks": 86832,
+    "num_produced_blocks": 86553
   },
   {
     "account_id": "buildlinks.poolv1.near",
-    "num_expected_blocks": 82080,
-    "num_produced_blocks": 81988
+    "num_expected_blocks": 83376,
+    "num_produced_blocks": 83284
   },
   {
     "account_id": "staked.poolv1.near",
-    "num_expected_blocks": 82512,
-    "num_produced_blocks": 80877
+    "num_expected_blocks": 83808,
+    "num_produced_blocks": 82145
   },
   {
     "account_id": "sparkpool.poolv1.near",
-    "num_expected_blocks": 80352,
-    "num_produced_blocks": 80349
+    "num_expected_blocks": 81648,
+    "num_produced_blocks": 81645
   },
   {
     "account_id": "hashquark.poolv1.near",
-    "num_expected_blocks": 79920,
-    "num_produced_blocks": 79856
+    "num_expected_blocks": 81216,
+    "num_produced_blocks": 81152
   },
   {
     "account_id": "bisontrails.poolv1.near",
-    "num_expected_blocks": 79056,
-    "num_produced_blocks": 79029
+    "num_expected_blocks": 80352,
+    "num_produced_blocks": 80325
   },
   {
     "account_id": "certusone.poolv1.near",
-    "num_expected_blocks": 75168,
-    "num_produced_blocks": 75161
+    "num_expected_blocks": 76464,
+    "num_produced_blocks": 76457
   },
   {
     "account_id": "zkv_staketosupportprivacy.poolv1.near",
-    "num_expected_blocks": 74736,
-    "num_produced_blocks": 74733
+    "num_expected_blocks": 76032,
+    "num_produced_blocks": 76029
   },
   {
     "account_id": "figment.poolv1.near",
-    "num_expected_blocks": 52704,
-    "num_produced_blocks": 52098
+    "num_expected_blocks": 54000,
+    "num_produced_blocks": 53394
   },
   {
     "account_id": "huobipool.poolv1.near",
@@ -81,98 +81,103 @@
   },
   {
     "account_id": "stakefish.poolv1.near",
-    "num_expected_blocks": 32832,
-    "num_produced_blocks": 32831
+    "num_expected_blocks": 33696,
+    "num_produced_blocks": 33695
   },
   {
     "account_id": "jazza.poolv1.near",
-    "num_expected_blocks": 22032,
-    "num_produced_blocks": 22031
+    "num_expected_blocks": 22464,
+    "num_produced_blocks": 22463
   },
   {
     "account_id": "erm.poolv1.near",
-    "num_expected_blocks": 22032,
-    "num_produced_blocks": 22029
+    "num_expected_blocks": 22464,
+    "num_produced_blocks": 22461
   },
   {
     "account_id": "masternode24.poolv1.near",
+    "num_expected_blocks": 18576,
+    "num_produced_blocks": 18575
+  },
+  {
+    "account_id": "lunanova.poolv1.near",
+    "num_expected_blocks": 18576,
+    "num_produced_blocks": 18539
+  },
+  {
+    "account_id": "inotel.poolv1.near",
     "num_expected_blocks": 18144,
     "num_produced_blocks": 18143
   },
   {
-    "account_id": "lunanova.poolv1.near",
-    "num_expected_blocks": 18144,
-    "num_produced_blocks": 18110
-  },
-  {
-    "account_id": "inotel.poolv1.near",
-    "num_expected_blocks": 17712,
-    "num_produced_blocks": 17711
-  },
-  {
     "account_id": "zavodil.poolv1.near",
-    "num_expected_blocks": 17280,
-    "num_produced_blocks": 17106
-  },
-  {
-    "account_id": "fresh.poolv1.near",
-    "num_expected_blocks": 15120,
-    "num_produced_blocks": 15025
-  },
-  {
-    "account_id": "baziliknear.poolv1.near",
-    "num_expected_blocks": 14688,
-    "num_produced_blocks": 14687
+    "num_expected_blocks": 17712,
+    "num_produced_blocks": 17537
   },
   {
     "account_id": "okexpool.poolv1.near",
-    "num_expected_blocks": 14256,
-    "num_produced_blocks": 14254
+    "num_expected_blocks": 15552,
+    "num_produced_blocks": 15550
+  },
+  {
+    "account_id": "fresh.poolv1.near",
+    "num_expected_blocks": 15552,
+    "num_produced_blocks": 15457
+  },
+  {
+    "account_id": "baziliknear.poolv1.near",
+    "num_expected_blocks": 15120,
+    "num_produced_blocks": 15119
   },
   {
     "account_id": "01node.poolv1.near",
-    "num_expected_blocks": 12096,
-    "num_produced_blocks": 12094
+    "num_expected_blocks": 12528,
+    "num_produced_blocks": 12526
   },
   {
     "account_id": "moonlet.poolv1.near",
-    "num_expected_blocks": 6912,
-    "num_produced_blocks": 6912
+    "num_expected_blocks": 7344,
+    "num_produced_blocks": 7344
   },
   {
     "account_id": "hb436_pool.poolv1.near",
-    "num_expected_blocks": 6048,
-    "num_produced_blocks": 6048
+    "num_expected_blocks": 6480,
+    "num_produced_blocks": 6480
   },
   {
     "account_id": "johnsmith.poolv1.near",
-    "num_expected_blocks": 6048,
-    "num_produced_blocks": 6048
+    "num_expected_blocks": 6480,
+    "num_produced_blocks": 6480
   },
   {
     "account_id": "near8888.poolv1.near",
+    "num_expected_blocks": 6480,
+    "num_produced_blocks": 6480
+  },
+  {
+    "account_id": "bobby.poolv1.near",
+    "num_expected_blocks": 6480,
+    "num_produced_blocks": 6479
+  },
+  {
+    "account_id": "electric.poolv1.near",
     "num_expected_blocks": 6048,
     "num_produced_blocks": 6048
   },
   {
-    "account_id": "bobby.poolv1.near",
-    "num_expected_blocks": 6048,
-    "num_produced_blocks": 6047
-  },
-  {
-    "account_id": "electric.poolv1.near",
-    "num_expected_blocks": 5616,
-    "num_produced_blocks": 5616
-  },
-  {
     "account_id": "ideocolabventures.poolv1.near",
-    "num_expected_blocks": 5616,
-    "num_produced_blocks": 5616
+    "num_expected_blocks": 6048,
+    "num_produced_blocks": 6048
   },
   {
     "account_id": "openshards.poolv1.near",
-    "num_expected_blocks": 5616,
-    "num_produced_blocks": 5616
+    "num_expected_blocks": 6048,
+    "num_produced_blocks": 6048
+  },
+  {
+    "account_id": "stakin.poolv1.near",
+    "num_expected_blocks": 5184,
+    "num_produced_blocks": 5184
   },
   {
     "account_id": "rocknroll.poolv1.near",
@@ -180,13 +185,8 @@
     "num_produced_blocks": 4752
   },
   {
-    "account_id": "stakin.poolv1.near",
-    "num_expected_blocks": 4752,
-    "num_produced_blocks": 4752
-  },
-  {
     "account_id": "chorusone.poolv1.near",
-    "num_expected_blocks": 3456,
-    "num_produced_blocks": 3456
+    "num_expected_blocks": 3888,
+    "num_produced_blocks": 3888
   }
 ]
