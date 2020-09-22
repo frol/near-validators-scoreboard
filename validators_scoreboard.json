@@ -1,38 +1,38 @@
 [
   {
     "account_id": "a_validator",
-    "num_expected_blocks": 136047,
-    "num_produced_blocks": 128120
+    "num_expected_blocks": 136147,
+    "num_produced_blocks": 128218
   },
   {
     "account_id": "plex2",
-    "num_expected_blocks": 124029,
-    "num_produced_blocks": 120858
+    "num_expected_blocks": 124229,
+    "num_produced_blocks": 121058
   },
   {
     "account_id": "olaiolsen",
-    "num_expected_blocks": 124547,
-    "num_produced_blocks": 119441
+    "num_expected_blocks": 124747,
+    "num_produced_blocks": 119641
   },
   {
     "account_id": "villiamsivertsen",
-    "num_expected_blocks": 119149,
-    "num_produced_blocks": 113846
+    "num_expected_blocks": 119349,
+    "num_produced_blocks": 114046
   },
   {
     "account_id": "dochpryof",
-    "num_expected_blocks": 118853,
-    "num_produced_blocks": 113811
+    "num_expected_blocks": 119053,
+    "num_produced_blocks": 114011
   },
   {
     "account_id": "c1.hashquark",
-    "num_expected_blocks": 115430,
-    "num_produced_blocks": 112427
+    "num_expected_blocks": 115530,
+    "num_produced_blocks": 112525
   },
   {
     "account_id": "fredrik_pool",
-    "num_expected_blocks": 114757,
-    "num_produced_blocks": 108312
+    "num_expected_blocks": 114957,
+    "num_produced_blocks": 108512
   },
   {
     "account_id": "wetez",
@@ -41,43 +41,43 @@
   },
   {
     "account_id": "sl-he",
-    "num_expected_blocks": 109500,
-    "num_produced_blocks": 104709
+    "num_expected_blocks": 109700,
+    "num_produced_blocks": 104909
   },
   {
     "account_id": "oligarr",
-    "num_expected_blocks": 111625,
-    "num_produced_blocks": 103483
+    "num_expected_blocks": 111825,
+    "num_produced_blocks": 103683
   },
   {
     "account_id": "janliamnilsson",
-    "num_expected_blocks": 109651,
-    "num_produced_blocks": 103222
+    "num_expected_blocks": 109851,
+    "num_produced_blocks": 103420
   },
   {
     "account_id": "sfpool",
-    "num_expected_blocks": 105517,
-    "num_produced_blocks": 103045
+    "num_expected_blocks": 105717,
+    "num_produced_blocks": 103245
   },
   {
     "account_id": "validator_italia_contract",
-    "num_expected_blocks": 102927,
-    "num_produced_blocks": 101163
+    "num_expected_blocks": 103127,
+    "num_produced_blocks": 101363
   },
   {
     "account_id": "ag_staking",
-    "num_expected_blocks": 99523,
-    "num_produced_blocks": 98423
+    "num_expected_blocks": 99723,
+    "num_produced_blocks": 98623
   },
   {
     "account_id": "smart.askold.betanet",
-    "num_expected_blocks": 101743,
-    "num_produced_blocks": 98061
+    "num_expected_blocks": 101943,
+    "num_produced_blocks": 98259
   },
   {
     "account_id": "tommywesley",
-    "num_expected_blocks": 105798,
-    "num_produced_blocks": 96220
+    "num_expected_blocks": 105998,
+    "num_produced_blocks": 96420
   },
   {
     "account_id": "huglester",
@@ -86,13 +86,13 @@
   },
   {
     "account_id": "pro.stakehouse.betanet",
-    "num_expected_blocks": 92923,
-    "num_produced_blocks": 91108
+    "num_expected_blocks": 93123,
+    "num_produced_blocks": 91308
   },
   {
     "account_id": "sub1.crazylandd.betanet",
-    "num_expected_blocks": 88428,
-    "num_produced_blocks": 84955
+    "num_expected_blocks": 88628,
+    "num_produced_blocks": 85150
   },
   {
     "account_id": "fuckit.betanet",
@@ -100,19 +100,19 @@
     "num_produced_blocks": 82324
   },
   {
-    "account_id": "yoda",
-    "num_expected_blocks": 89970,
-    "num_produced_blocks": 81783
+    "account_id": "pool.happin.betanet",
+    "num_expected_blocks": 83827,
+    "num_produced_blocks": 81976
   },
   {
-    "account_id": "pool.happin.betanet",
-    "num_expected_blocks": 83627,
-    "num_produced_blocks": 81776
+    "account_id": "yoda",
+    "num_expected_blocks": 90070,
+    "num_produced_blocks": 81820
   },
   {
     "account_id": "bucket",
-    "num_expected_blocks": 96467,
-    "num_produced_blocks": 80249
+    "num_expected_blocks": 96567,
+    "num_produced_blocks": 80349
   },
   {
     "account_id": "cloudpost_pool",
@@ -131,13 +131,13 @@
   },
   {
     "account_id": "phenom",
-    "num_expected_blocks": 81899,
-    "num_produced_blocks": 77396
+    "num_expected_blocks": 82099,
+    "num_produced_blocks": 77596
   },
   {
     "account_id": "megatron",
-    "num_expected_blocks": 84109,
-    "num_produced_blocks": 77271
+    "num_expected_blocks": 84209,
+    "num_produced_blocks": 77371
   },
   {
     "account_id": "node0",
@@ -166,8 +166,8 @@
   },
   {
     "account_id": "sc.galbraith.betanet",
-    "num_expected_blocks": 75420,
-    "num_produced_blocks": 73233
+    "num_expected_blocks": 75620,
+    "num_produced_blocks": 73433
   },
   {
     "account_id": "silver1",
@@ -181,8 +181,8 @@
   },
   {
     "account_id": "volvos60909",
-    "num_expected_blocks": 77118,
-    "num_produced_blocks": 70272
+    "num_expected_blocks": 77318,
+    "num_produced_blocks": 70472
   },
   {
     "account_id": "sparkpool.test",
@@ -211,8 +211,8 @@
   },
   {
     "account_id": "delight_pool",
-    "num_expected_blocks": 72088,
-    "num_produced_blocks": 66031
+    "num_expected_blocks": 72188,
+    "num_produced_blocks": 66131
   },
   {
     "account_id": "zenqqqq",
@@ -221,8 +221,8 @@
   },
   {
     "account_id": "cryp",
-    "num_expected_blocks": 68820,
-    "num_produced_blocks": 64808
+    "num_expected_blocks": 68920,
+    "num_produced_blocks": 64908
   },
   {
     "account_id": "sc.foxnorth1210.betanet",
@@ -235,14 +235,14 @@
     "num_produced_blocks": 64181
   },
   {
+    "account_id": "arm.armada.betanet",
+    "num_expected_blocks": 66993,
+    "num_produced_blocks": 63589
+  },
+  {
     "account_id": "777stakes",
     "num_expected_blocks": 72869,
     "num_produced_blocks": 63550
-  },
-  {
-    "account_id": "arm.armada.betanet",
-    "num_expected_blocks": 66793,
-    "num_produced_blocks": 63389
   },
   {
     "account_id": "masternode24",
@@ -256,8 +256,8 @@
   },
   {
     "account_id": "31337x.31337.betanet",
-    "num_expected_blocks": 64548,
-    "num_produced_blocks": 61135
+    "num_expected_blocks": 64648,
+    "num_produced_blocks": 61182
   },
   {
     "account_id": "contract.bartalamew.betanet",
@@ -266,8 +266,8 @@
   },
   {
     "account_id": "staked.stakehouse.betanet",
-    "num_expected_blocks": 61519,
-    "num_produced_blocks": 60642
+    "num_expected_blocks": 61719,
+    "num_produced_blocks": 60841
   },
   {
     "account_id": "mmm.stakehouse.betanet",
@@ -281,8 +281,8 @@
   },
   {
     "account_id": "isillien",
-    "num_expected_blocks": 84918,
-    "num_produced_blocks": 57749
+    "num_expected_blocks": 85118,
+    "num_produced_blocks": 57949
   },
   {
     "account_id": "optimisticvalidator",
@@ -291,8 +291,13 @@
   },
   {
     "account_id": "aptemuyc4",
-    "num_expected_blocks": 72984,
+    "num_expected_blocks": 73184,
     "num_produced_blocks": 56552
+  },
+  {
+    "account_id": "gems",
+    "num_expected_blocks": 58120,
+    "num_produced_blocks": 55987
   },
   {
     "account_id": "vova",
@@ -305,19 +310,14 @@
     "num_produced_blocks": 55907
   },
   {
-    "account_id": "gems",
-    "num_expected_blocks": 58020,
-    "num_produced_blocks": 55887
-  },
-  {
     "account_id": "pool.everstake.betanet",
-    "num_expected_blocks": 54723,
-    "num_produced_blocks": 54491
+    "num_expected_blocks": 54923,
+    "num_produced_blocks": 54691
   },
   {
     "account_id": "yyyyyyyyyyyyy1",
-    "num_expected_blocks": 54979,
-    "num_produced_blocks": 54089
+    "num_expected_blocks": 55079,
+    "num_produced_blocks": 54188
   },
   {
     "account_id": "node2",
@@ -376,8 +376,8 @@
   },
   {
     "account_id": "pool.easy2stake.betanet",
-    "num_expected_blocks": 47419,
-    "num_produced_blocks": 46397
+    "num_expected_blocks": 47619,
+    "num_produced_blocks": 46597
   },
   {
     "account_id": "blink",
@@ -396,8 +396,8 @@
   },
   {
     "account_id": "40th.meridian.betanet",
-    "num_expected_blocks": 44883,
-    "num_produced_blocks": 42458
+    "num_expected_blocks": 44983,
+    "num_produced_blocks": 42558
   },
   {
     "account_id": "anonstake",
@@ -410,24 +410,24 @@
     "num_produced_blocks": 40518
   },
   {
+    "account_id": "crypto-solutions.stakehouse.betanet",
+    "num_expected_blocks": 41608,
+    "num_produced_blocks": 40425
+  },
+  {
     "account_id": "warger_sub",
     "num_expected_blocks": 43703,
     "num_produced_blocks": 40411
   },
   {
     "account_id": "sam.stakehouse.betanet",
-    "num_expected_blocks": 42045,
-    "num_produced_blocks": 40171
+    "num_expected_blocks": 42145,
+    "num_produced_blocks": 40271
   },
   {
     "account_id": "emilia.stakehouse.betanet",
-    "num_expected_blocks": 41941,
-    "num_produced_blocks": 40155
-  },
-  {
-    "account_id": "crypto-solutions.stakehouse.betanet",
-    "num_expected_blocks": 41308,
-    "num_produced_blocks": 40125
+    "num_expected_blocks": 42041,
+    "num_produced_blocks": 40254
   },
   {
     "account_id": "jazza",
@@ -441,8 +441,8 @@
   },
   {
     "account_id": "swain2.stakehouse.betanet",
-    "num_expected_blocks": 41542,
-    "num_produced_blocks": 39495
+    "num_expected_blocks": 41642,
+    "num_produced_blocks": 39595
   },
   {
     "account_id": "node1",
@@ -485,14 +485,14 @@
     "num_produced_blocks": 33738
   },
   {
+    "account_id": "swiss_staking.stakehouse.betanet",
+    "num_expected_blocks": 34604,
+    "num_produced_blocks": 33661
+  },
+  {
     "account_id": "cryptium.stakehouse.betanet",
     "num_expected_blocks": 34402,
     "num_produced_blocks": 33613
-  },
-  {
-    "account_id": "swiss_staking.stakehouse.betanet",
-    "num_expected_blocks": 34404,
-    "num_produced_blocks": 33461
   },
   {
     "account_id": "blazenet",
@@ -511,8 +511,8 @@
   },
   {
     "account_id": "majlovesreg.stakehouse.betanet",
-    "num_expected_blocks": 32405,
-    "num_produced_blocks": 31838
+    "num_expected_blocks": 32505,
+    "num_produced_blocks": 31933
   },
   {
     "account_id": "mmm",
@@ -531,8 +531,8 @@
   },
   {
     "account_id": "starlink-pool.stakehouse.betanet",
-    "num_expected_blocks": 31404,
-    "num_produced_blocks": 30925
+    "num_expected_blocks": 31604,
+    "num_produced_blocks": 31125
   },
   {
     "account_id": "staking_viboracecata.stakehouse.betanet",
@@ -545,14 +545,14 @@
     "num_produced_blocks": 30433
   },
   {
+    "account_id": "seby05.betanet",
+    "num_expected_blocks": 29604,
+    "num_produced_blocks": 28311
+  },
+  {
     "account_id": "nearcool2",
     "num_expected_blocks": 35696,
     "num_produced_blocks": 28163
-  },
-  {
-    "account_id": "seby05.betanet",
-    "num_expected_blocks": 29404,
-    "num_produced_blocks": 28115
   },
   {
     "account_id": "c3.inotel.betanet",
@@ -565,19 +565,19 @@
     "num_produced_blocks": 26458
   },
   {
-    "account_id": "pool",
-    "num_expected_blocks": 29295,
-    "num_produced_blocks": 26312
-  },
-  {
     "account_id": "validator.projecttent.betanet",
-    "num_expected_blocks": 26504,
-    "num_produced_blocks": 26301
+    "num_expected_blocks": 26604,
+    "num_produced_blocks": 26401
   },
   {
     "account_id": "dog.bears.betanet",
-    "num_expected_blocks": 29794,
-    "num_produced_blocks": 26279
+    "num_expected_blocks": 29894,
+    "num_produced_blocks": 26374
+  },
+  {
+    "account_id": "pool",
+    "num_expected_blocks": 29295,
+    "num_produced_blocks": 26312
   },
   {
     "account_id": "maxhealth",
@@ -601,13 +601,13 @@
   },
   {
     "account_id": "pool.bibiwang.betanet",
-    "num_expected_blocks": 34024,
-    "num_produced_blocks": 25934
+    "num_expected_blocks": 34124,
+    "num_produced_blocks": 26034
   },
   {
     "account_id": "genesislab.stakehouse.betanet",
-    "num_expected_blocks": 25803,
-    "num_produced_blocks": 25754
+    "num_expected_blocks": 25903,
+    "num_produced_blocks": 25854
   },
   {
     "account_id": "zpooll",
@@ -615,14 +615,14 @@
     "num_produced_blocks": 25652
   },
   {
+    "account_id": "avadon41.stakehouse.betanet",
+    "num_expected_blocks": 26401,
+    "num_produced_blocks": 25350
+  },
+  {
     "account_id": "stake-machine",
     "num_expected_blocks": 27676,
     "num_produced_blocks": 25223
-  },
-  {
-    "account_id": "avadon41.stakehouse.betanet",
-    "num_expected_blocks": 26201,
-    "num_produced_blocks": 25150
   },
   {
     "account_id": "vlad-validator.test",
@@ -636,7 +636,7 @@
   },
   {
     "account_id": "averonix",
-    "num_expected_blocks": 53901,
+    "num_expected_blocks": 54001,
     "num_produced_blocks": 24615
   },
   {
@@ -676,8 +676,8 @@
   },
   {
     "account_id": "staking4all.stakehouse.betanet",
-    "num_expected_blocks": 23702,
-    "num_produced_blocks": 22483
+    "num_expected_blocks": 23802,
+    "num_produced_blocks": 22583
   },
   {
     "account_id": "pool.dokiacapital.betanet",
@@ -685,14 +685,14 @@
     "num_produced_blocks": 22416
   },
   {
+    "account_id": "forbole.stakehouse.betanet",
+    "num_expected_blocks": 22201,
+    "num_produced_blocks": 21816
+  },
+  {
     "account_id": "buildlinks",
     "num_expected_blocks": 22100,
     "num_produced_blocks": 21738
-  },
-  {
-    "account_id": "forbole.stakehouse.betanet",
-    "num_expected_blocks": 22101,
-    "num_produced_blocks": 21716
   },
   {
     "account_id": "applied",
@@ -751,13 +751,13 @@
   },
   {
     "account_id": "savelev.stakehouse.betanet",
-    "num_expected_blocks": 17600,
-    "num_produced_blocks": 17432
+    "num_expected_blocks": 17700,
+    "num_produced_blocks": 17532
   },
   {
     "account_id": "thstakepool.stakehouse.betanet",
-    "num_expected_blocks": 20102,
-    "num_produced_blocks": 17412
+    "num_expected_blocks": 20202,
+    "num_produced_blocks": 17511
   },
   {
     "account_id": "farm",
@@ -766,8 +766,8 @@
   },
   {
     "account_id": "test1ch01.challenge01.betanet",
-    "num_expected_blocks": 17000,
-    "num_produced_blocks": 16983
+    "num_expected_blocks": 17100,
+    "num_produced_blocks": 17083
   },
   {
     "account_id": "bisontrails.stakehouse.betanet",
@@ -781,8 +781,18 @@
   },
   {
     "account_id": "gielve.stakehouse.betanet",
-    "num_expected_blocks": 16402,
-    "num_produced_blocks": 16156
+    "num_expected_blocks": 16502,
+    "num_produced_blocks": 16256
+  },
+  {
+    "account_id": "coolpool.dimaro1.betanet",
+    "num_expected_blocks": 18202,
+    "num_produced_blocks": 15891
+  },
+  {
+    "account_id": "kazan-pool.stakehouse.betanet",
+    "num_expected_blocks": 16904,
+    "num_produced_blocks": 15844
   },
   {
     "account_id": "neozaru.stakehouse.betanet",
@@ -790,19 +800,9 @@
     "num_produced_blocks": 15823
   },
   {
-    "account_id": "coolpool.dimaro1.betanet",
-    "num_expected_blocks": 18102,
-    "num_produced_blocks": 15791
-  },
-  {
     "account_id": "alma3.stakehouse.betanet",
     "num_expected_blocks": 16500,
     "num_produced_blocks": 15753
-  },
-  {
-    "account_id": "kazan-pool.stakehouse.betanet",
-    "num_expected_blocks": 16804,
-    "num_produced_blocks": 15744
   },
   {
     "account_id": "lovegood.harrypotter",
@@ -826,8 +826,8 @@
   },
   {
     "account_id": "roma_k.stakehouse.betanet",
-    "num_expected_blocks": 13801,
-    "num_produced_blocks": 13588
+    "num_expected_blocks": 13901,
+    "num_produced_blocks": 13688
   },
   {
     "account_id": "zeropool",
@@ -836,8 +836,8 @@
   },
   {
     "account_id": "blockdaemon.stakehouse.betanet",
-    "num_expected_blocks": 13302,
-    "num_produced_blocks": 13086
+    "num_expected_blocks": 13402,
+    "num_produced_blocks": 13186
   },
   {
     "account_id": "nodeasy.test",
@@ -846,8 +846,8 @@
   },
   {
     "account_id": "777staker.7777nda.betanet",
-    "num_expected_blocks": 14303,
-    "num_produced_blocks": 12662
+    "num_expected_blocks": 14403,
+    "num_produced_blocks": 12762
   },
   {
     "account_id": "castle.stakehouse.betanet",
@@ -886,18 +886,18 @@
   },
   {
     "account_id": "mfsc.stakehouse.betanet",
-    "num_expected_blocks": 12601,
-    "num_produced_blocks": 10963
+    "num_expected_blocks": 12701,
+    "num_produced_blocks": 11050
   },
   {
     "account_id": "nearmars.stakehouse.betanet",
-    "num_expected_blocks": 10901,
-    "num_produced_blocks": 10265
+    "num_expected_blocks": 11001,
+    "num_produced_blocks": 10364
   },
   {
     "account_id": "phenom100uptime.stakehouse.betanet",
-    "num_expected_blocks": 10301,
-    "num_produced_blocks": 10097
+    "num_expected_blocks": 10401,
+    "num_produced_blocks": 10197
   },
   {
     "account_id": "bowen.test",
@@ -951,7 +951,12 @@
   },
   {
     "account_id": "validator.arno_nym.betanet",
-    "num_expected_blocks": 31517,
+    "num_expected_blocks": 31617,
+    "num_produced_blocks": 7763
+  },
+  {
+    "account_id": "sub2.balinode.betanet",
+    "num_expected_blocks": 7800,
     "num_produced_blocks": 7763
   },
   {
@@ -960,29 +965,24 @@
     "num_produced_blocks": 7704
   },
   {
-    "account_id": "sub2.balinode.betanet",
-    "num_expected_blocks": 7700,
-    "num_produced_blocks": 7663
-  },
-  {
     "account_id": "stakingfund",
     "num_expected_blocks": 8100,
     "num_produced_blocks": 7195
   },
   {
     "account_id": "anechoic.stakehouse.betanet",
-    "num_expected_blocks": 7801,
-    "num_produced_blocks": 6896
+    "num_expected_blocks": 7901,
+    "num_produced_blocks": 6996
+  },
+  {
+    "account_id": "chorus-one-pool-v1.stakehouse.betanet",
+    "num_expected_blocks": 6900,
+    "num_produced_blocks": 6892
   },
   {
     "account_id": "moonlet.test",
     "num_expected_blocks": 6900,
     "num_produced_blocks": 6801
-  },
-  {
-    "account_id": "chorus-one-pool-v1.stakehouse.betanet",
-    "num_expected_blocks": 6800,
-    "num_produced_blocks": 6792
   },
   {
     "account_id": "huglester.betanet",
@@ -1050,14 +1050,14 @@
     "num_produced_blocks": 5016
   },
   {
+    "account_id": "filippova_pool.stakehouse.betanet",
+    "num_expected_blocks": 5200,
+    "num_produced_blocks": 4993
+  },
+  {
     "account_id": "bi23.betanet",
     "num_expected_blocks": 5024,
     "num_produced_blocks": 4911
-  },
-  {
-    "account_id": "filippova_pool.stakehouse.betanet",
-    "num_expected_blocks": 5100,
-    "num_produced_blocks": 4893
   },
   {
     "account_id": "catcatcat.test",
