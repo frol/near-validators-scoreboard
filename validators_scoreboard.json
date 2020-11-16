@@ -945,6 +945,26 @@
     "num_produced_blocks": 11056
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 10800,
+    "num_produced_blocks": 10800
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 10800,
+    "num_produced_blocks": 10800
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 10800,
+    "num_produced_blocks": 10800
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 10800,
+    "num_produced_blocks": 10800
+  },
+  {
     "account_id": "bowen.test",
     "num_expected_blocks": 10002,
     "num_produced_blocks": 9599
