@@ -845,6 +845,26 @@
     "num_produced_blocks": 19166
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 18302,
+    "num_produced_blocks": 18297
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 18301,
+    "num_produced_blocks": 18294
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 18300,
+    "num_produced_blocks": 18294
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 18300,
+    "num_produced_blocks": 18292
+  },
+  {
     "account_id": "ou812",
     "num_expected_blocks": 22186,
     "num_produced_blocks": 18287
@@ -868,26 +888,6 @@
     "account_id": "neozaru.stakehouse.betanet",
     "num_expected_blocks": 20197,
     "num_produced_blocks": 15823
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 15802,
-    "num_produced_blocks": 15797
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 15801,
-    "num_produced_blocks": 15794
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 15800,
-    "num_produced_blocks": 15794
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 15800,
-    "num_produced_blocks": 15792
   },
   {
     "account_id": "alma3.stakehouse.betanet",
