@@ -750,6 +750,26 @@
     "num_produced_blocks": 23503
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 23302,
+    "num_produced_blocks": 23297
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 23301,
+    "num_produced_blocks": 23294
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 23300,
+    "num_produced_blocks": 23294
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 23300,
+    "num_produced_blocks": 23292
+  },
+  {
     "account_id": "thepassivetrust.stakehouse.betanet",
     "num_expected_blocks": 25463,
     "num_produced_blocks": 23281
@@ -808,26 +828,6 @@
     "account_id": "mathwallet",
     "num_expected_blocks": 23896,
     "num_produced_blocks": 21422
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 20802,
-    "num_produced_blocks": 20797
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 20801,
-    "num_produced_blocks": 20794
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 20800,
-    "num_produced_blocks": 20794
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 20800,
-    "num_produced_blocks": 20792
   },
   {
     "account_id": "driftforall",
