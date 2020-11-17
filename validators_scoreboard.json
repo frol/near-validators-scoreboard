@@ -530,6 +530,26 @@
     "num_produced_blocks": 43713
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 43302,
+    "num_produced_blocks": 43297
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 43301,
+    "num_produced_blocks": 43294
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 43300,
+    "num_produced_blocks": 43294
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 43300,
+    "num_produced_blocks": 43292
+  },
+  {
     "account_id": "anonstake",
     "num_expected_blocks": 44428,
     "num_produced_blocks": 42268
@@ -538,26 +558,6 @@
     "account_id": "kazan-pool.stakehouse.betanet",
     "num_expected_blocks": 44206,
     "num_produced_blocks": 42114
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 40802,
-    "num_produced_blocks": 40797
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 40801,
-    "num_produced_blocks": 40794
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 40800,
-    "num_produced_blocks": 40794
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 40800,
-    "num_produced_blocks": 40792
   },
   {
     "account_id": "sllpool",
