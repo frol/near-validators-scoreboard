@@ -810,6 +810,26 @@
     "num_produced_blocks": 21422
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 20802,
+    "num_produced_blocks": 20797
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 20801,
+    "num_produced_blocks": 20794
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 20800,
+    "num_produced_blocks": 20794
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 20800,
+    "num_produced_blocks": 20792
+  },
+  {
     "account_id": "driftforall",
     "num_expected_blocks": 20400,
     "num_produced_blocks": 20046
@@ -843,26 +863,6 @@
     "account_id": "akme.betanet",
     "num_expected_blocks": 19402,
     "num_produced_blocks": 19166
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 18302,
-    "num_produced_blocks": 18297
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 18301,
-    "num_produced_blocks": 18294
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 18300,
-    "num_produced_blocks": 18294
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 18300,
-    "num_produced_blocks": 18292
   },
   {
     "account_id": "ou812",
