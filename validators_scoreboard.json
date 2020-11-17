@@ -630,6 +630,26 @@
     "num_produced_blocks": 31270
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 30802,
+    "num_produced_blocks": 30797
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 30801,
+    "num_produced_blocks": 30794
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 30800,
+    "num_produced_blocks": 30794
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 30800,
+    "num_produced_blocks": 30792
+  },
+  {
     "account_id": "staking_viboracecata.stakehouse.betanet",
     "num_expected_blocks": 32653,
     "num_produced_blocks": 30651
@@ -648,26 +668,6 @@
     "account_id": "awesome",
     "num_expected_blocks": 30704,
     "num_produced_blocks": 29533
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 28302,
-    "num_produced_blocks": 28297
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 28301,
-    "num_produced_blocks": 28294
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 28300,
-    "num_produced_blocks": 28294
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 28300,
-    "num_produced_blocks": 28292
   },
   {
     "account_id": "nearcool2",
