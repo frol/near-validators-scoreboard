@@ -510,6 +510,26 @@
     "num_produced_blocks": 45849
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 45802,
+    "num_produced_blocks": 45797
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 45801,
+    "num_produced_blocks": 45794
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 45800,
+    "num_produced_blocks": 45794
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 45800,
+    "num_produced_blocks": 45792
+  },
+  {
     "account_id": "forbole.stakehouse.betanet",
     "num_expected_blocks": 46308,
     "num_produced_blocks": 44981
@@ -528,26 +548,6 @@
     "account_id": "ryabina",
     "num_expected_blocks": 44406,
     "num_produced_blocks": 43713
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 43302,
-    "num_produced_blocks": 43297
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 43301,
-    "num_produced_blocks": 43294
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 43300,
-    "num_produced_blocks": 43294
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 43300,
-    "num_produced_blocks": 43292
   },
   {
     "account_id": "anonstake",
