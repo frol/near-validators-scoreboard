@@ -435,6 +435,26 @@
     "num_produced_blocks": 53323
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 53302,
+    "num_produced_blocks": 53297
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 53301,
+    "num_produced_blocks": 53294
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 53300,
+    "num_produced_blocks": 53294
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 53300,
+    "num_produced_blocks": 53292
+  },
+  {
     "account_id": "alive29",
     "num_expected_blocks": 59845,
     "num_produced_blocks": 52943
@@ -458,26 +478,6 @@
     "account_id": "swiss_staking.stakehouse.betanet",
     "num_expected_blocks": 55306,
     "num_produced_blocks": 50922
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 50802,
-    "num_produced_blocks": 50797
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 50801,
-    "num_produced_blocks": 50794
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 50800,
-    "num_produced_blocks": 50794
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 50800,
-    "num_produced_blocks": 50792
   },
   {
     "account_id": "get_rich",
