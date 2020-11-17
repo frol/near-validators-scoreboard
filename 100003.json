@@ -1,0 +1,46 @@
+[
+  {
+    "account_id": "nfvalidator1.near",
+    "public_key": "ed25519:9BKvkSnk2QCAmMPgEijT92Gk6BBoVn3mqL3VGkpvMo1u",
+    "is_slashed": false,
+    "stake": "78540396515077104983485861734",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2500,
+    "num_expected_blocks": 2500
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "public_key": "ed25519:C63uy2PNFBR2TaAn7qLY1y65eMHdejxg3C92UeinoNGU",
+    "is_slashed": false,
+    "stake": "78540396515077104983485861734",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2500,
+    "num_expected_blocks": 2500
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "public_key": "ed25519:6spAp6o7bLgN2xcAVVcU4h74NpVDqU657yf9Pz9iJyeB",
+    "is_slashed": false,
+    "stake": "78540396515077104983485861734",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2500,
+    "num_expected_blocks": 2500
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "public_key": "ed25519:2HCWjwWdwtNiBShzwaEVwE86mgF78knD15nMMGbswDAZ",
+    "is_slashed": false,
+    "stake": "78540396515077104983485861734",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2500,
+    "num_expected_blocks": 2500
+  }
+]
