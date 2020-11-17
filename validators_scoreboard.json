@@ -540,6 +540,26 @@
     "num_produced_blocks": 42114
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 40802,
+    "num_produced_blocks": 40797
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 40801,
+    "num_produced_blocks": 40794
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 40800,
+    "num_produced_blocks": 40794
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 40800,
+    "num_produced_blocks": 40792
+  },
+  {
     "account_id": "sllpool",
     "num_expected_blocks": 48018,
     "num_produced_blocks": 40518
@@ -568,26 +588,6 @@
     "account_id": "777staker.7777nda.betanet",
     "num_expected_blocks": 42607,
     "num_produced_blocks": 38361
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 38302,
-    "num_produced_blocks": 38297
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 38301,
-    "num_produced_blocks": 38294
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 38300,
-    "num_produced_blocks": 38294
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 38300,
-    "num_produced_blocks": 38292
   },
   {
     "account_id": "stake2earnfunds2",
