@@ -360,6 +360,26 @@
     "num_produced_blocks": 66057
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 65802,
+    "num_produced_blocks": 65797
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 65801,
+    "num_produced_blocks": 65794
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 65800,
+    "num_produced_blocks": 65794
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 65800,
+    "num_produced_blocks": 65792
+  },
+  {
     "account_id": "zenqqqq",
     "num_expected_blocks": 67283,
     "num_produced_blocks": 65723
@@ -388,26 +408,6 @@
     "account_id": "777stakes",
     "num_expected_blocks": 73269,
     "num_produced_blocks": 63550
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 63302,
-    "num_produced_blocks": 63297
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 63301,
-    "num_produced_blocks": 63294
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 63300,
-    "num_produced_blocks": 63294
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 63300,
-    "num_produced_blocks": 63292
   },
   {
     "account_id": "masternode24",
