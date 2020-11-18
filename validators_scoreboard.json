@@ -295,6 +295,26 @@
     "num_produced_blocks": 75081
   },
   {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 75000,
+    "num_produced_blocks": 74993
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 75000,
+    "num_produced_blocks": 74988
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 74901,
+    "num_produced_blocks": 74891
+  },
+  {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 74702,
+    "num_produced_blocks": 74696
+  },
+  {
     "account_id": "genesislab.stakehouse.betanet",
     "num_expected_blocks": 75307,
     "num_produced_blocks": 74540
@@ -313,26 +333,6 @@
     "account_id": "nearmars.stakehouse.betanet",
     "num_expected_blocks": 74107,
     "num_produced_blocks": 72646
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 72501,
-    "num_produced_blocks": 72494
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 72500,
-    "num_produced_blocks": 72494
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 72500,
-    "num_produced_blocks": 72492
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 72402,
-    "num_produced_blocks": 72397
   },
   {
     "account_id": "simonhugo",
@@ -1365,6 +1365,11 @@
     "num_produced_blocks": 1228
   },
   {
+    "account_id": "pool.48.near",
+    "num_expected_blocks": 1200,
+    "num_produced_blocks": 1200
+  },
+  {
     "account_id": "bazilik2020.test",
     "num_expected_blocks": 1100,
     "num_produced_blocks": 1099
@@ -1373,11 +1378,6 @@
     "account_id": "zee",
     "num_expected_blocks": 1300,
     "num_produced_blocks": 920
-  },
-  {
-    "account_id": "pool.48.near",
-    "num_expected_blocks": 900,
-    "num_produced_blocks": 900
   },
   {
     "account_id": "novy.betanet",
