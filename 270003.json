@@ -1,0 +1,79 @@
+[
+  {
+    "account_id": "nfvalidator1.near",
+    "public_key": "ed25519:9BKvkSnk2QCAmMPgEijT92Gk6BBoVn3mqL3VGkpvMo1u",
+    "is_slashed": false,
+    "stake": "137864078628695601342917475380",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2300,
+    "num_expected_blocks": 2300
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "public_key": "ed25519:C63uy2PNFBR2TaAn7qLY1y65eMHdejxg3C92UeinoNGU",
+    "is_slashed": false,
+    "stake": "137864078628695601342917475380",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2300,
+    "num_expected_blocks": 2300
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "public_key": "ed25519:6spAp6o7bLgN2xcAVVcU4h74NpVDqU657yf9Pz9iJyeB",
+    "is_slashed": false,
+    "stake": "137864078628695601342917475380",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2300,
+    "num_expected_blocks": 2300
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "public_key": "ed25519:2HCWjwWdwtNiBShzwaEVwE86mgF78knD15nMMGbswDAZ",
+    "is_slashed": false,
+    "stake": "137864078628695601342917475380",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2200,
+    "num_expected_blocks": 2200
+  },
+  {
+    "account_id": "pool.48.near",
+    "public_key": "ed25519:HkchASewGKi7cHiif44mtB1xd3oxyxsNGd8sLgemKybP",
+    "is_slashed": false,
+    "stake": "21580178100137637039196981513",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 300,
+    "num_expected_blocks": 300
+  },
+  {
+    "account_id": "pool.appload.near",
+    "public_key": "ed25519:5jo9rs39n5tmXv5TnPup1ErQjajhYvZ5YWyS8pnapyLw",
+    "is_slashed": false,
+    "stake": "20039997580548211024100000000",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 216,
+    "num_expected_blocks": 300
+  },
+  {
+    "account_id": "pool.zavodilbetanet.near",
+    "public_key": "ed25519:2bZushgumNPRXqVdaiWdBAJcfbtUZ4LiWZhC8moXRJ5u",
+    "is_slashed": false,
+    "stake": "20099998633162321371000000000",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 300,
+    "num_expected_blocks": 300
+  }
+]
