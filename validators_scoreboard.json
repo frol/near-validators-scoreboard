@@ -395,6 +395,26 @@
     "num_produced_blocks": 61628
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 60802,
+    "num_produced_blocks": 60797
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 60801,
+    "num_produced_blocks": 60794
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 60800,
+    "num_produced_blocks": 60794
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 60800,
+    "num_produced_blocks": 60792
+  },
+  {
     "account_id": "mmm.stakehouse.betanet",
     "num_expected_blocks": 61107,
     "num_produced_blocks": 59066
@@ -403,26 +423,6 @@
     "account_id": "stakin",
     "num_expected_blocks": 64671,
     "num_produced_blocks": 58455
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 58302,
-    "num_produced_blocks": 58297
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 58301,
-    "num_produced_blocks": 58294
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 58300,
-    "num_produced_blocks": 58294
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 58300,
-    "num_produced_blocks": 58292
   },
   {
     "account_id": "optimisticvalidator",
