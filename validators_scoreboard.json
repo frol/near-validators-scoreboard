@@ -425,6 +425,26 @@
     "num_produced_blocks": 55907
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 55802,
+    "num_produced_blocks": 55797
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 55801,
+    "num_produced_blocks": 55794
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 55800,
+    "num_produced_blocks": 55794
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 55800,
+    "num_produced_blocks": 55792
+  },
+  {
     "account_id": "yyyyyyyyyyyyy1",
     "num_expected_blocks": 55780,
     "num_produced_blocks": 54676
@@ -433,26 +453,6 @@
     "account_id": "node2",
     "num_expected_blocks": 54803,
     "num_produced_blocks": 53323
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 53302,
-    "num_produced_blocks": 53297
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 53301,
-    "num_produced_blocks": 53294
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 53300,
-    "num_produced_blocks": 53294
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 53300,
-    "num_produced_blocks": 53292
   },
   {
     "account_id": "alive29",
