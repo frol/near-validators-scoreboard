@@ -66,15 +66,15 @@ ACCOUNT_ID,NUM_PRODUCED_BLOCKS,NUM_EXPECTED_BLOCKS,ONLINE
 "ou812.stakehouse.betanet",72067,76049,0.947639022209365
 "sparkpool.test",69375,71533,0.9698321054618149
 "sam.stakehouse.betanet",68165,71448,0.9540504982644721
+"nfvalidator1.near",68097,68102,0.9999265807171596
+"nfvalidator2.near",68094,68101,0.9998972114946917
+"nfvalidator3.near",68094,68100,0.9999118942731278
+"nfvalidator4.near",67992,68000,0.9998823529411764
 "launooskuarttu",67802,74441,0.91081527652772
 "node",67390,69004,0.9766100515912121
 "emilia.stakehouse.betanet",67282,70443,0.9551268401402553
 "bitcat.stakehouse.betanet",66818,69320,0.9639065204847086
 "savelev.stakehouse.betanet",66057,67007,0.9858223767666064
-"nfvalidator1.near",65797,65802,0.9999240144676453
-"nfvalidator2.near",65794,65801,0.9998936186380146
-"nfvalidator3.near",65794,65800,0.9999088145896656
-"nfvalidator4.near",65792,65800,0.9998784194528876
 "zenqqqq",65723,67283,0.9768143513220279
 "swain2.stakehouse.betanet",65596,69147,0.948645639000969
 "isillien",65521,92720,0.7066544434857636
@@ -290,6 +290,7 @@ ACCOUNT_ID,NUM_PRODUCED_BLOCKS,NUM_EXPECTED_BLOCKS,ONLINE
 "zero.zeropool.betanet",398,400,0.995
 "alexturetskiy.betanet",397,400,0.9925
 "mutedtommy-staking-pool.stakehouse.betanet",368,500,0.736
+"pool.48.near",300,300,1
 "pool.zebra.betanet",296,500,0.592
 "account.sdsolo.betanet",246,300,0.82
 "weiser.betanet",244,1199,0.20350291909924936
@@ -338,5 +339,7 @@ ACCOUNT_ID,NUM_PRODUCED_BLOCKS,NUM_EXPECTED_BLOCKS,ONLINE
 "3q_val",0,200,0
 "mutedtommy.stakehouse.betanet",0,100,0
 "blockpower.stakehouse.betanet",0,200,0
+"pool.appload.near",0,300,0
+"pool.zavodilbetanet.near",0,300,0
 "c1.bibiwang.betanet",0,200,0
 "stakefish.betanet",0,200,0
