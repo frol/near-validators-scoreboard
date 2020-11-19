@@ -200,6 +200,26 @@
     "num_produced_blocks": 97428
   },
   {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 96801,
+    "num_produced_blocks": 96791
+  },
+  {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 96700,
+    "num_produced_blocks": 96693
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 96600,
+    "num_produced_blocks": 96588
+  },
+  {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 96003,
+    "num_produced_blocks": 95997
+  },
+  {
     "account_id": "tatianka",
     "num_expected_blocks": 101734,
     "num_produced_blocks": 95890
@@ -208,26 +228,6 @@
     "account_id": "phenom",
     "num_expected_blocks": 100600,
     "num_produced_blocks": 95050
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 94601,
-    "num_produced_blocks": 94591
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 94500,
-    "num_produced_blocks": 94493
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 94400,
-    "num_produced_blocks": 94388
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 93903,
-    "num_produced_blocks": 93897
   },
   {
     "account_id": "huglester",
@@ -1125,6 +1125,11 @@
     "num_produced_blocks": 4417
   },
   {
+    "account_id": "pool.48.near",
+    "num_expected_blocks": 4100,
+    "num_produced_blocks": 4100
+  },
+  {
     "account_id": "pool66.stakehouse.betanet",
     "num_expected_blocks": 4000,
     "num_produced_blocks": 3970
@@ -1133,11 +1138,6 @@
     "account_id": "swimmingpool",
     "num_expected_blocks": 4100,
     "num_produced_blocks": 3877
-  },
-  {
-    "account_id": "pool.48.near",
-    "num_expected_blocks": 3800,
-    "num_produced_blocks": 3800
   },
   {
     "account_id": "nazar92.betanet",
@@ -1165,6 +1165,11 @@
     "num_produced_blocks": 3314
   },
   {
+    "account_id": "poolv1.majlovesreg.near",
+    "num_expected_blocks": 3300,
+    "num_produced_blocks": 3263
+  },
+  {
     "account_id": "rock1path",
     "num_expected_blocks": 3201,
     "num_produced_blocks": 3174
@@ -1185,6 +1190,11 @@
     "num_produced_blocks": 3050
   },
   {
+    "account_id": "pool.zavodilbetanet.near",
+    "num_expected_blocks": 3600,
+    "num_produced_blocks": 3000
+  },
+  {
     "account_id": "pool.chainflow.betanet",
     "num_expected_blocks": 3001,
     "num_produced_blocks": 2982
@@ -1195,19 +1205,9 @@
     "num_produced_blocks": 2980
   },
   {
-    "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 3000,
-    "num_produced_blocks": 2963
-  },
-  {
     "account_id": "bowen2.test",
     "num_expected_blocks": 3477,
     "num_produced_blocks": 2759
-  },
-  {
-    "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 3300,
-    "num_produced_blocks": 2700
   },
   {
     "account_id": "andrew_builder.betanet",
@@ -1280,6 +1280,11 @@
     "num_produced_blocks": 1976
   },
   {
+    "account_id": "pool.appload.near",
+    "num_expected_blocks": 2600,
+    "num_produced_blocks": 1916
+  },
+  {
     "account_id": "humanh.betanet",
     "num_expected_blocks": 2000,
     "num_produced_blocks": 1893
@@ -1293,11 +1298,6 @@
     "account_id": "denysof-pool.stakehouse.betanet",
     "num_expected_blocks": 1801,
     "num_produced_blocks": 1753
-  },
-  {
-    "account_id": "pool.appload.near",
-    "num_expected_blocks": 2400,
-    "num_produced_blocks": 1716
   },
   {
     "account_id": "unicorn.betanet",
@@ -1345,6 +1345,11 @@
     "num_produced_blocks": 1650
   },
   {
+    "account_id": "pool.jazza-betanet.near",
+    "num_expected_blocks": 1600,
+    "num_produced_blocks": 1600
+  },
+  {
     "account_id": "deadpool.stakehouse.betanet",
     "num_expected_blocks": 2200,
     "num_produced_blocks": 1598
@@ -1373,11 +1378,6 @@
     "account_id": "bisonshark.betanet",
     "num_expected_blocks": 1701,
     "num_produced_blocks": 1472
-  },
-  {
-    "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 1400,
-    "num_produced_blocks": 1400
   },
   {
     "account_id": "zzbar",
