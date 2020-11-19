@@ -240,34 +240,34 @@
     "num_produced_blocks": 85968
   },
   {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 85900,
+    "num_produced_blocks": 85893
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 85901,
+    "num_produced_blocks": 85891
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 85700,
+    "num_produced_blocks": 85688
+  },
+  {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 85403,
+    "num_produced_blocks": 85397
+  },
+  {
     "account_id": "sub2.balinode.betanet",
     "num_expected_blocks": 85613,
     "num_produced_blocks": 83960
   },
   {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 83800,
-    "num_produced_blocks": 83793
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 83701,
-    "num_produced_blocks": 83691
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 83500,
-    "num_produced_blocks": 83488
-  },
-  {
     "account_id": "yoda",
     "num_expected_blocks": 96370,
     "num_produced_blocks": 83411
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 83203,
-    "num_produced_blocks": 83197
   },
   {
     "account_id": "fuckit.betanet",
@@ -1200,6 +1200,11 @@
     "num_produced_blocks": 2685
   },
   {
+    "account_id": "pool.48.near",
+    "num_expected_blocks": 2600,
+    "num_produced_blocks": 2600
+  },
+  {
     "account_id": "stakeatnovy",
     "num_expected_blocks": 3000,
     "num_produced_blocks": 2575
@@ -1223,11 +1228,6 @@
     "account_id": "pool.certusone.betanet",
     "num_expected_blocks": 2600,
     "num_produced_blocks": 2336
-  },
-  {
-    "account_id": "pool.48.near",
-    "num_expected_blocks": 2300,
-    "num_produced_blocks": 2300
   },
   {
     "account_id": "c1.erkan.betanet",
@@ -1278,6 +1278,11 @@
     "account_id": "s5.stakehouse.betanet",
     "num_expected_blocks": 2283,
     "num_produced_blocks": 1833
+  },
+  {
+    "account_id": "poolv1.majlovesreg.near",
+    "num_expected_blocks": 1800,
+    "num_produced_blocks": 1763
   },
   {
     "account_id": "denysof-pool.stakehouse.betanet",
@@ -1350,6 +1355,11 @@
     "num_produced_blocks": 1537
   },
   {
+    "account_id": "pool.zavodilbetanet.near",
+    "num_expected_blocks": 2100,
+    "num_produced_blocks": 1500
+  },
+  {
     "account_id": "stake2earnfunds",
     "num_expected_blocks": 1700,
     "num_produced_blocks": 1499
@@ -1358,11 +1368,6 @@
     "account_id": "bisonshark.betanet",
     "num_expected_blocks": 1701,
     "num_produced_blocks": 1472
-  },
-  {
-    "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1500,
-    "num_produced_blocks": 1463
   },
   {
     "account_id": "zzbar",
@@ -1375,11 +1380,6 @@
     "num_produced_blocks": 1228
   },
   {
-    "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 1800,
-    "num_produced_blocks": 1200
-  },
-  {
     "account_id": "bazilik2020.test",
     "num_expected_blocks": 1100,
     "num_produced_blocks": 1099
@@ -1390,14 +1390,14 @@
     "num_produced_blocks": 920
   },
   {
+    "account_id": "pool.appload.near",
+    "num_expected_blocks": 1600,
+    "num_produced_blocks": 916
+  },
+  {
     "account_id": "novy.betanet",
     "num_expected_blocks": 900,
     "num_produced_blocks": 896
-  },
-  {
-    "account_id": "pool.appload.near",
-    "num_expected_blocks": 1400,
-    "num_produced_blocks": 716
   },
   {
     "account_id": "lxyw.betanet",
@@ -1413,6 +1413,11 @@
     "account_id": "wheat.stakehouse.betanet",
     "num_expected_blocks": 800,
     "num_produced_blocks": 604
+  },
+  {
+    "account_id": "pool.jazza-betanet.near",
+    "num_expected_blocks": 600,
+    "num_produced_blocks": 600
   },
   {
     "account_id": "auditone.betanet",
@@ -1446,11 +1451,6 @@
   },
   {
     "account_id": "vipnamai.betanet",
-    "num_expected_blocks": 400,
-    "num_produced_blocks": 400
-  },
-  {
-    "account_id": "pool.jazza-betanet.near",
     "num_expected_blocks": 400,
     "num_produced_blocks": 400
   },
