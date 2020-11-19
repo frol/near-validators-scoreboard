@@ -215,34 +215,34 @@
     "num_produced_blocks": 92924
   },
   {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 92500,
+    "num_produced_blocks": 92493
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 92401,
+    "num_produced_blocks": 92391
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 92200,
+    "num_produced_blocks": 92188
+  },
+  {
     "account_id": "31337x.31337.betanet",
     "num_expected_blocks": 96249,
     "num_produced_blocks": 92059
   },
   {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 91703,
+    "num_produced_blocks": 91697
+  },
+  {
     "account_id": "kokos-anti-covid",
     "num_expected_blocks": 98328,
     "num_produced_blocks": 91192
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 90300,
-    "num_produced_blocks": 90293
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 90301,
-    "num_produced_blocks": 90291
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 90000,
-    "num_produced_blocks": 89988
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 89703,
-    "num_produced_blocks": 89697
   },
   {
     "account_id": "starlink-pool.stakehouse.betanet",
@@ -1155,14 +1155,14 @@
     "num_produced_blocks": 3502
   },
   {
+    "account_id": "pool.48.near",
+    "num_expected_blocks": 3500,
+    "num_produced_blocks": 3500
+  },
+  {
     "account_id": "zpool",
     "num_expected_blocks": 3800,
     "num_produced_blocks": 3314
-  },
-  {
-    "account_id": "pool.48.near",
-    "num_expected_blocks": 3200,
-    "num_produced_blocks": 3200
   },
   {
     "account_id": "rock1path",
@@ -1205,6 +1205,11 @@
     "num_produced_blocks": 2685
   },
   {
+    "account_id": "poolv1.majlovesreg.near",
+    "num_expected_blocks": 2700,
+    "num_produced_blocks": 2663
+  },
+  {
     "account_id": "stakeatnovy",
     "num_expected_blocks": 3000,
     "num_produced_blocks": 2575
@@ -1220,14 +1225,14 @@
     "num_produced_blocks": 2490
   },
   {
+    "account_id": "pool.zavodilbetanet.near",
+    "num_expected_blocks": 3000,
+    "num_produced_blocks": 2400
+  },
+  {
     "account_id": "ryabina_io.betanet",
     "num_expected_blocks": 2400,
     "num_produced_blocks": 2391
-  },
-  {
-    "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 2400,
-    "num_produced_blocks": 2363
   },
   {
     "account_id": "pool.certusone.betanet",
@@ -1258,11 +1263,6 @@
     "account_id": "sll.betanet",
     "num_expected_blocks": 2201,
     "num_produced_blocks": 2198
-  },
-  {
-    "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 2700,
-    "num_produced_blocks": 2100
   },
   {
     "account_id": "afi.betanet",
@@ -1360,6 +1360,11 @@
     "num_produced_blocks": 1537
   },
   {
+    "account_id": "pool.appload.near",
+    "num_expected_blocks": 2200,
+    "num_produced_blocks": 1516
+  },
+  {
     "account_id": "stake2earnfunds",
     "num_expected_blocks": 1700,
     "num_produced_blocks": 1499
@@ -1375,24 +1380,19 @@
     "num_produced_blocks": 1383
   },
   {
-    "account_id": "pool.appload.near",
-    "num_expected_blocks": 2000,
-    "num_produced_blocks": 1316
-  },
-  {
     "account_id": "masternode24.betanet",
     "num_expected_blocks": 1600,
     "num_produced_blocks": 1228
   },
   {
+    "account_id": "pool.jazza-betanet.near",
+    "num_expected_blocks": 1200,
+    "num_produced_blocks": 1200
+  },
+  {
     "account_id": "bazilik2020.test",
     "num_expected_blocks": 1100,
     "num_produced_blocks": 1099
-  },
-  {
-    "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 1000,
-    "num_produced_blocks": 1000
   },
   {
     "account_id": "zee",
@@ -1530,6 +1530,11 @@
     "num_produced_blocks": 95
   },
   {
+    "account_id": "infinite.lux.near",
+    "num_expected_blocks": 600,
+    "num_produced_blocks": 94
+  },
+  {
     "account_id": "ablue",
     "num_expected_blocks": 400,
     "num_produced_blocks": 68
@@ -1662,11 +1667,6 @@
   {
     "account_id": "andrew_builder",
     "num_expected_blocks": 600,
-    "num_produced_blocks": 0
-  },
-  {
-    "account_id": "infinite.lux.near",
-    "num_expected_blocks": 400,
     "num_produced_blocks": 0
   },
   {
