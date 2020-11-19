@@ -225,6 +225,26 @@
     "num_produced_blocks": 91192
   },
   {
+    "account_id": "nfvalidator3.near",
+    "num_expected_blocks": 90300,
+    "num_produced_blocks": 90293
+  },
+  {
+    "account_id": "nfvalidator2.near",
+    "num_expected_blocks": 90301,
+    "num_produced_blocks": 90291
+  },
+  {
+    "account_id": "nfvalidator4.near",
+    "num_expected_blocks": 90000,
+    "num_produced_blocks": 89988
+  },
+  {
+    "account_id": "nfvalidator1.near",
+    "num_expected_blocks": 89703,
+    "num_produced_blocks": 89697
+  },
+  {
     "account_id": "starlink-pool.stakehouse.betanet",
     "num_expected_blocks": 92112,
     "num_produced_blocks": 89439
@@ -233,26 +253,6 @@
     "account_id": "megatron",
     "num_expected_blocks": 96711,
     "num_produced_blocks": 88417
-  },
-  {
-    "account_id": "nfvalidator3.near",
-    "num_expected_blocks": 88100,
-    "num_produced_blocks": 88093
-  },
-  {
-    "account_id": "nfvalidator2.near",
-    "num_expected_blocks": 88101,
-    "num_produced_blocks": 88091
-  },
-  {
-    "account_id": "nfvalidator4.near",
-    "num_expected_blocks": 87800,
-    "num_produced_blocks": 87788
-  },
-  {
-    "account_id": "nfvalidator1.near",
-    "num_expected_blocks": 87603,
-    "num_produced_blocks": 87597
   },
   {
     "account_id": "filippova_pool.stakehouse.betanet",
@@ -1160,6 +1160,11 @@
     "num_produced_blocks": 3314
   },
   {
+    "account_id": "pool.48.near",
+    "num_expected_blocks": 3200,
+    "num_produced_blocks": 3200
+  },
+  {
     "account_id": "rock1path",
     "num_expected_blocks": 3201,
     "num_produced_blocks": 3174
@@ -1188,11 +1193,6 @@
     "account_id": "c2.nearkat",
     "num_expected_blocks": 3201,
     "num_produced_blocks": 2980
-  },
-  {
-    "account_id": "pool.48.near",
-    "num_expected_blocks": 2900,
-    "num_produced_blocks": 2900
   },
   {
     "account_id": "bowen2.test",
@@ -1225,6 +1225,11 @@
     "num_produced_blocks": 2391
   },
   {
+    "account_id": "poolv1.majlovesreg.near",
+    "num_expected_blocks": 2400,
+    "num_produced_blocks": 2363
+  },
+  {
     "account_id": "pool.certusone.betanet",
     "num_expected_blocks": 2600,
     "num_produced_blocks": 2336
@@ -1255,6 +1260,11 @@
     "num_produced_blocks": 2198
   },
   {
+    "account_id": "pool.zavodilbetanet.near",
+    "num_expected_blocks": 2700,
+    "num_produced_blocks": 2100
+  },
+  {
     "account_id": "afi.betanet",
     "num_expected_blocks": 2100,
     "num_produced_blocks": 2097
@@ -1263,11 +1273,6 @@
     "account_id": "zav.betanet",
     "num_expected_blocks": 2100,
     "num_produced_blocks": 2096
-  },
-  {
-    "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 2100,
-    "num_produced_blocks": 2063
   },
   {
     "account_id": "cypherhunter.betanet",
@@ -1283,11 +1288,6 @@
     "account_id": "s5.stakehouse.betanet",
     "num_expected_blocks": 2283,
     "num_produced_blocks": 1833
-  },
-  {
-    "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 2400,
-    "num_produced_blocks": 1800
   },
   {
     "account_id": "denysof-pool.stakehouse.betanet",
@@ -1375,19 +1375,24 @@
     "num_produced_blocks": 1383
   },
   {
+    "account_id": "pool.appload.near",
+    "num_expected_blocks": 2000,
+    "num_produced_blocks": 1316
+  },
+  {
     "account_id": "masternode24.betanet",
     "num_expected_blocks": 1600,
     "num_produced_blocks": 1228
   },
   {
-    "account_id": "pool.appload.near",
-    "num_expected_blocks": 1800,
-    "num_produced_blocks": 1116
-  },
-  {
     "account_id": "bazilik2020.test",
     "num_expected_blocks": 1100,
     "num_produced_blocks": 1099
+  },
+  {
+    "account_id": "pool.jazza-betanet.near",
+    "num_expected_blocks": 1000,
+    "num_produced_blocks": 1000
   },
   {
     "account_id": "zee",
@@ -1398,11 +1403,6 @@
     "account_id": "novy.betanet",
     "num_expected_blocks": 900,
     "num_produced_blocks": 896
-  },
-  {
-    "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 800,
-    "num_produced_blocks": 800
   },
   {
     "account_id": "lxyw.betanet",
