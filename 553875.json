@@ -1,0 +1,46 @@
+[
+  {
+    "account_id": "node0",
+    "public_key": "ed25519:7PGseFbWxvYVgZ89K1uTJKYoKetWs7BJtbyXDzfbAcqX",
+    "is_slashed": false,
+    "stake": "1000000000000000000000000000000",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2499,
+    "num_expected_blocks": 2500
+  },
+  {
+    "account_id": "node1",
+    "public_key": "ed25519:6DSjZ8mvsRZDvFqFxo8tCKePG96omXW7eVYVSySmDk8e",
+    "is_slashed": false,
+    "stake": "1000000000000000000000000000000",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2500,
+    "num_expected_blocks": 2500
+  },
+  {
+    "account_id": "node2",
+    "public_key": "ed25519:GkDv7nSMS3xcqA45cpMvFmfV1o4fRF6zYo1JRR6mNqg5",
+    "is_slashed": false,
+    "stake": "1000000000000000000000000000000",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2500,
+    "num_expected_blocks": 2501
+  },
+  {
+    "account_id": "node3",
+    "public_key": "ed25519:ydgzeXHJ5Xyt7M1gXLxqLBW1Ejx6scNV5Nx2pxFM8su",
+    "is_slashed": false,
+    "stake": "1000000000000000000000000000000",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2497,
+    "num_expected_blocks": 2500
+  }
+]
