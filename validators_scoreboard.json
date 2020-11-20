@@ -265,6 +265,11 @@
     "num_produced_blocks": 83960
   },
   {
+    "account_id": "node0",
+    "num_expected_blocks": 84965,
+    "num_produced_blocks": 83661
+  },
+  {
     "account_id": "yoda",
     "num_expected_blocks": 96370,
     "num_produced_blocks": 83411
@@ -273,11 +278,6 @@
     "account_id": "fuckit.betanet",
     "num_expected_blocks": 90694,
     "num_produced_blocks": 82324
-  },
-  {
-    "account_id": "node0",
-    "num_expected_blocks": 82515,
-    "num_produced_blocks": 81211
   },
   {
     "account_id": "crypto-solutions.stakehouse.betanet",
@@ -410,14 +410,19 @@
     "num_produced_blocks": 63550
   },
   {
+    "account_id": "node3",
+    "num_expected_blocks": 64706,
+    "num_produced_blocks": 63404
+  },
+  {
     "account_id": "masternode24",
     "num_expected_blocks": 62728,
     "num_produced_blocks": 61628
   },
   {
-    "account_id": "node3",
-    "num_expected_blocks": 62206,
-    "num_produced_blocks": 60904
+    "account_id": "node2",
+    "num_expected_blocks": 62254,
+    "num_produced_blocks": 60773
   },
   {
     "account_id": "mmm.stakehouse.betanet",
@@ -428,11 +433,6 @@
     "account_id": "stakin",
     "num_expected_blocks": 64671,
     "num_produced_blocks": 58455
-  },
-  {
-    "account_id": "node2",
-    "num_expected_blocks": 59804,
-    "num_produced_blocks": 58323
   },
   {
     "account_id": "optimisticvalidator",
@@ -525,6 +525,11 @@
     "num_produced_blocks": 46714
   },
   {
+    "account_id": "node1",
+    "num_expected_blocks": 47855,
+    "num_produced_blocks": 46409
+  },
+  {
     "account_id": "blink",
     "num_expected_blocks": 47813,
     "num_produced_blocks": 45849
@@ -538,11 +543,6 @@
     "account_id": "staking4all.stakehouse.betanet",
     "num_expected_blocks": 48402,
     "num_produced_blocks": 44835
-  },
-  {
-    "account_id": "node1",
-    "num_expected_blocks": 45405,
-    "num_produced_blocks": 43959
   },
   {
     "account_id": "general.alfa.betanet",
@@ -1116,13 +1116,13 @@
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 6000,
-    "num_produced_blocks": 5285
+    "num_expected_blocks": 6050,
+    "num_produced_blocks": 5335
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 5200,
-    "num_produced_blocks": 5200
+    "num_expected_blocks": 5250,
+    "num_produced_blocks": 5250
   },
   {
     "account_id": "ivan.validatorivan5.betanet",
@@ -1161,7 +1161,7 @@
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 4300,
+    "num_expected_blocks": 4350,
     "num_produced_blocks": 3791
   },
   {
