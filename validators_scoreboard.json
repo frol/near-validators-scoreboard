@@ -26,8 +26,8 @@
   },
   {
     "account_id": "node0",
-    "num_expected_blocks": 233265,
-    "num_produced_blocks": 231957
+    "num_expected_blocks": 235715,
+    "num_produced_blocks": 234407
   },
   {
     "account_id": "sub1.crazylandd.betanet",
@@ -36,13 +36,13 @@
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 213306,
-    "num_produced_blocks": 212004
+    "num_expected_blocks": 215756,
+    "num_produced_blocks": 214454
   },
   {
     "account_id": "node2",
-    "num_expected_blocks": 210404,
-    "num_produced_blocks": 208907
+    "num_expected_blocks": 212804,
+    "num_produced_blocks": 211307
   },
   {
     "account_id": "validator_italia_contract",
@@ -61,8 +61,8 @@
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 195505,
-    "num_produced_blocks": 193918
+    "num_expected_blocks": 197905,
+    "num_produced_blocks": 196318
   },
   {
     "account_id": "cryp",
@@ -946,18 +946,18 @@
   },
   {
     "account_id": "pool.48.near",
+    "num_expected_blocks": 11750,
+    "num_produced_blocks": 11738
+  },
+  {
+    "account_id": "poolv1.majlovesreg.near",
     "num_expected_blocks": 11700,
-    "num_produced_blocks": 11688
+    "num_produced_blocks": 11655
   },
   {
     "account_id": "justice.immortal.betanet",
     "num_expected_blocks": 13101,
     "num_produced_blocks": 11618
-  },
-  {
-    "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 11650,
-    "num_produced_blocks": 11605
   },
   {
     "account_id": "gunpool",
@@ -1011,13 +1011,13 @@
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 9100,
-    "num_produced_blocks": 8383
+    "num_expected_blocks": 9150,
+    "num_produced_blocks": 8433
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 8300,
-    "num_produced_blocks": 8300
+    "num_expected_blocks": 8350,
+    "num_produced_blocks": 8350
   },
   {
     "account_id": "cher5",
@@ -1060,14 +1060,14 @@
     "num_produced_blocks": 6801
   },
   {
+    "account_id": "infinite.lux.near",
+    "num_expected_blocks": 7350,
+    "num_produced_blocks": 6739
+  },
+  {
     "account_id": "pool.zavodilbetanet.near",
     "num_expected_blocks": 7300,
     "num_produced_blocks": 6699
-  },
-  {
-    "account_id": "infinite.lux.near",
-    "num_expected_blocks": 7300,
-    "num_produced_blocks": 6689
   },
   {
     "account_id": "huglester.betanet",
@@ -1076,8 +1076,8 @@
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 7800,
-    "num_produced_blocks": 6597
+    "num_expected_blocks": 7850,
+    "num_produced_blocks": 6647
   },
   {
     "account_id": "takeittothemoon.fuckit.betanet",
