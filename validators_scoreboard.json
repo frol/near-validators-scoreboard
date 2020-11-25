@@ -1,28 +1,28 @@
 [
   {
     "account_id": "node1",
-    "num_expected_blocks": 1966225,
-    "num_produced_blocks": 1962887
+    "num_expected_blocks": 1970761,
+    "num_produced_blocks": 1967423
   },
   {
     "account_id": "node2",
-    "num_expected_blocks": 1591899,
-    "num_produced_blocks": 1580398
+    "num_expected_blocks": 1596219,
+    "num_produced_blocks": 1584718
   },
   {
     "account_id": "node0",
-    "num_expected_blocks": 1374819,
-    "num_produced_blocks": 1355670
+    "num_expected_blocks": 1379355,
+    "num_produced_blocks": 1360206
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 1163596,
-    "num_produced_blocks": 1157264
+    "num_expected_blocks": 1168132,
+    "num_produced_blocks": 1161800
   },
   {
     "account_id": "fresh_lockup.pool.f863973.m0",
-    "num_expected_blocks": 278206,
-    "num_produced_blocks": 276806
+    "num_expected_blocks": 280366,
+    "num_produced_blocks": 278966
   },
   {
     "account_id": "bisontrails.pool.f863973.m0",
@@ -31,38 +31,38 @@
   },
   {
     "account_id": "inotel.pool.f863973.m0",
-    "num_expected_blocks": 250129,
-    "num_produced_blocks": 249480
+    "num_expected_blocks": 252721,
+    "num_produced_blocks": 252072
   },
   {
     "account_id": "lunanova.pool.f863973.m0",
-    "num_expected_blocks": 244944,
-    "num_produced_blocks": 243778
+    "num_expected_blocks": 247536,
+    "num_produced_blocks": 246370
   },
   {
     "account_id": "valeraverim.pool.f863973.m0",
-    "num_expected_blocks": 238033,
-    "num_produced_blocks": 234579
+    "num_expected_blocks": 240841,
+    "num_produced_blocks": 237387
   },
   {
     "account_id": "jazza.pool.f863973.m0",
-    "num_expected_blocks": 222911,
-    "num_produced_blocks": 221057
+    "num_expected_blocks": 225287,
+    "num_produced_blocks": 223433
   },
   {
     "account_id": "orangeclub.pool.f863973.m0",
-    "num_expected_blocks": 219886,
-    "num_produced_blocks": 213823
+    "num_expected_blocks": 221830,
+    "num_produced_blocks": 215767
   },
   {
     "account_id": "alexandruast.pool.f863973.m0",
-    "num_expected_blocks": 209952,
-    "num_produced_blocks": 208931
+    "num_expected_blocks": 212112,
+    "num_produced_blocks": 211091
   },
   {
     "account_id": "blazenet.pool.f863973.m0",
-    "num_expected_blocks": 200448,
-    "num_produced_blocks": 199281
+    "num_expected_blocks": 202608,
+    "num_produced_blocks": 201441
   },
   {
     "account_id": "01node.pool.f863973.m0",
@@ -75,6 +75,11 @@
     "num_produced_blocks": 183053
   },
   {
+    "account_id": "dokia.pool.f863973.m0",
+    "num_expected_blocks": 179710,
+    "num_produced_blocks": 175555
+  },
+  {
     "account_id": "sl1sub.pool.f863973.m0",
     "num_expected_blocks": 178199,
     "num_produced_blocks": 175554
@@ -85,24 +90,19 @@
     "num_produced_blocks": 174928
   },
   {
-    "account_id": "dokia.pool.f863973.m0",
-    "num_expected_blocks": 177982,
-    "num_produced_blocks": 173827
-  },
-  {
     "account_id": "staked.pool.f863973.m0",
     "num_expected_blocks": 171719,
     "num_produced_blocks": 169419
   },
   {
     "account_id": "masternode24.pool.f863973.m0",
-    "num_expected_blocks": 161783,
-    "num_produced_blocks": 158121
+    "num_expected_blocks": 163727,
+    "num_produced_blocks": 160065
   },
   {
     "account_id": "stakin.pool.f863973.m0",
-    "num_expected_blocks": 159191,
-    "num_produced_blocks": 157214
+    "num_expected_blocks": 160919,
+    "num_produced_blocks": 158942
   },
   {
     "account_id": "bitcat.pool.f863973.m0",
@@ -176,8 +176,8 @@
   },
   {
     "account_id": "chorus-one.pool.f863973.m0",
-    "num_expected_blocks": 72144,
-    "num_produced_blocks": 69868
+    "num_expected_blocks": 73008,
+    "num_produced_blocks": 70732
   },
   {
     "account_id": "zainy.pool.f863973.m0",
@@ -186,8 +186,8 @@
   },
   {
     "account_id": "nodeasy.pool.f863973.m0",
-    "num_expected_blocks": 55295,
-    "num_produced_blocks": 49570
+    "num_expected_blocks": 55511,
+    "num_produced_blocks": 49786
   },
   {
     "account_id": "kronos.pool.f863973.m0",
