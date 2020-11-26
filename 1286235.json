@@ -1,0 +1,24 @@
+[
+  {
+    "account_id": "pool.jazza-betanet.near",
+    "public_key": "ed25519:4cKWhGQHfAZkUix3fcsDBVoRSerFwPD3GUMPNqeUJFgY",
+    "is_slashed": false,
+    "stake": "37777033492057488554148913246",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 4900,
+    "num_expected_blocks": 4900
+  },
+  {
+    "account_id": "poolv1.majlovesreg.near",
+    "public_key": "ed25519:8VFKemtwwy2gWaRBsRGiypDJUKUjdpe2SRRzBuPCnXRd",
+    "is_slashed": false,
+    "stake": "39228868250404631881645276596",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 5100,
+    "num_expected_blocks": 5100
+  }
+]
