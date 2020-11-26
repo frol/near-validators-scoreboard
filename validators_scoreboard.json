@@ -15,14 +15,14 @@
     "num_produced_blocks": 286989
   },
   {
+    "account_id": "node0",
+    "num_expected_blocks": 255794,
+    "num_produced_blocks": 252973
+  },
+  {
     "account_id": "pool.everstake.betanet",
     "num_expected_blocks": 251545,
     "num_produced_blocks": 251211
-  },
-  {
-    "account_id": "node0",
-    "num_expected_blocks": 253344,
-    "num_produced_blocks": 250523
   },
   {
     "account_id": "plex2",
@@ -31,13 +31,13 @@
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 233335,
-    "num_produced_blocks": 230575
+    "num_expected_blocks": 235785,
+    "num_produced_blocks": 233011
   },
   {
     "account_id": "node2",
-    "num_expected_blocks": 230470,
-    "num_produced_blocks": 227512
+    "num_expected_blocks": 232920,
+    "num_produced_blocks": 229962
   },
   {
     "account_id": "sub1.crazylandd.betanet",
@@ -46,8 +46,8 @@
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 215219,
-    "num_produced_blocks": 212456
+    "num_expected_blocks": 217569,
+    "num_produced_blocks": 214806
   },
   {
     "account_id": "validator_italia_contract",
@@ -936,13 +936,13 @@
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 12112,
-    "num_produced_blocks": 12043
+    "num_expected_blocks": 12162,
+    "num_produced_blocks": 12093
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 12062,
-    "num_produced_blocks": 12015
+    "num_expected_blocks": 12112,
+    "num_produced_blocks": 12065
   },
   {
     "account_id": "stakery",
@@ -996,13 +996,13 @@
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 9512,
-    "num_produced_blocks": 8737
+    "num_expected_blocks": 9562,
+    "num_produced_blocks": 8787
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 8712,
-    "num_produced_blocks": 8711
+    "num_expected_blocks": 8762,
+    "num_produced_blocks": 8761
   },
   {
     "account_id": "iosgvc.stakehouse.betanet",
@@ -1056,13 +1056,13 @@
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 7712,
-    "num_produced_blocks": 7043
+    "num_expected_blocks": 7762,
+    "num_produced_blocks": 7093
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 8212,
-    "num_produced_blocks": 6953
+    "num_expected_blocks": 8262,
+    "num_produced_blocks": 6986
   },
   {
     "account_id": "moonlet.test",
