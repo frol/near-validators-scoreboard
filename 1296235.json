@@ -1,0 +1,35 @@
+[
+  {
+    "account_id": "infinite.lux.near",
+    "public_key": "ed25519:E8MAM9q5ikkoye81wKiD814GFachTogWwLfE4pZxQwKX",
+    "is_slashed": false,
+    "stake": "32424349663082723018358677355",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2950,
+    "num_expected_blocks": 2950
+  },
+  {
+    "account_id": "pool.jazza-betanet.near",
+    "public_key": "ed25519:4cKWhGQHfAZkUix3fcsDBVoRSerFwPD3GUMPNqeUJFgY",
+    "is_slashed": false,
+    "stake": "37881462166377880511574892864",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 3450,
+    "num_expected_blocks": 3450
+  },
+  {
+    "account_id": "poolv1.majlovesreg.near",
+    "public_key": "ed25519:8VFKemtwwy2gWaRBsRGiypDJUKUjdpe2SRRzBuPCnXRd",
+    "is_slashed": false,
+    "stake": "39337330712150268682828338516",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 3600,
+    "num_expected_blocks": 3600
+  }
+]
