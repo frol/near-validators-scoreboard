@@ -775,6 +775,11 @@
     "num_produced_blocks": 23281
   },
   {
+    "account_id": "poolv1.majlovesreg.near",
+    "num_expected_blocks": 23212,
+    "num_produced_blocks": 23165
+  },
+  {
     "account_id": "c2.bibiwang.betanet",
     "num_expected_blocks": 25702,
     "num_produced_blocks": 23091
@@ -830,11 +835,6 @@
     "num_produced_blocks": 21422
   },
   {
-    "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 20812,
-    "num_produced_blocks": 20765
-  },
-  {
     "account_id": "driftforall",
     "num_expected_blocks": 20400,
     "num_produced_blocks": 20046
@@ -860,6 +860,11 @@
     "num_produced_blocks": 19468
   },
   {
+    "account_id": "pool.jazza-betanet.near",
+    "num_expected_blocks": 19462,
+    "num_produced_blocks": 19461
+  },
+  {
     "account_id": "roma_k.stakehouse.betanet",
     "num_expected_blocks": 19701,
     "num_produced_blocks": 19450
@@ -878,11 +883,6 @@
     "account_id": "farm",
     "num_expected_blocks": 21802,
     "num_produced_blocks": 17305
-  },
-  {
-    "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 17112,
-    "num_produced_blocks": 17111
   },
   {
     "account_id": "bisontrails.stakehouse.betanet",
@@ -960,6 +960,11 @@
     "num_produced_blocks": 11795
   },
   {
+    "account_id": "infinite.lux.near",
+    "num_expected_blocks": 12412,
+    "num_produced_blocks": 11743
+  },
+  {
     "account_id": "justice.immortal.betanet",
     "num_expected_blocks": 13101,
     "num_produced_blocks": 11618
@@ -980,9 +985,9 @@
     "num_produced_blocks": 11056
   },
   {
-    "account_id": "infinite.lux.near",
-    "num_expected_blocks": 10712,
-    "num_produced_blocks": 10043
+    "account_id": "pool.appload.near",
+    "num_expected_blocks": 11462,
+    "num_produced_blocks": 10687
   },
   {
     "account_id": "bowen.test",
@@ -1005,11 +1010,6 @@
     "num_produced_blocks": 9042
   },
   {
-    "account_id": "pool.appload.near",
-    "num_expected_blocks": 9562,
-    "num_produced_blocks": 8787
-  },
-  {
     "account_id": "iosgvc.stakehouse.betanet",
     "num_expected_blocks": 8814,
     "num_produced_blocks": 8707
@@ -1018,6 +1018,11 @@
     "account_id": "pool.alexandruast.betanet",
     "num_expected_blocks": 8912,
     "num_produced_blocks": 8649
+  },
+  {
+    "account_id": "c1.inotel.near",
+    "num_expected_blocks": 9912,
+    "num_produced_blocks": 8636
   },
   {
     "account_id": "validator_buildlinks.betanet",
@@ -1058,11 +1063,6 @@
     "account_id": "stakingfund",
     "num_expected_blocks": 8100,
     "num_produced_blocks": 7195
-  },
-  {
-    "account_id": "c1.inotel.near",
-    "num_expected_blocks": 8262,
-    "num_produced_blocks": 6986
   },
   {
     "account_id": "moonlet.test",
