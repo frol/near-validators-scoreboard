@@ -325,6 +325,11 @@
     "num_produced_blocks": 75649
   },
   {
+    "account_id": "poolv1.majlovesreg.near",
+    "num_expected_blocks": 75712,
+    "num_produced_blocks": 75647
+  },
+  {
     "account_id": "chorus-one-pool-v1.stakehouse.betanet",
     "num_expected_blocks": 76306,
     "num_produced_blocks": 75081
@@ -345,11 +350,6 @@
     "num_produced_blocks": 74068
   },
   {
-    "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 73612,
-    "num_produced_blocks": 73547
-  },
-  {
     "account_id": "nearmars.stakehouse.betanet",
     "num_expected_blocks": 74107,
     "num_produced_blocks": 72646
@@ -365,14 +365,14 @@
     "num_produced_blocks": 72067
   },
   {
+    "account_id": "pool.jazza-betanet.near",
+    "num_expected_blocks": 70662,
+    "num_produced_blocks": 70633
+  },
+  {
     "account_id": "sparkpool.test",
     "num_expected_blocks": 71533,
     "num_produced_blocks": 69375
-  },
-  {
-    "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 68612,
-    "num_produced_blocks": 68583
   },
   {
     "account_id": "sam.stakehouse.betanet",
@@ -490,6 +490,11 @@
     "num_produced_blocks": 51034
   },
   {
+    "account_id": "pool.48.near",
+    "num_expected_blocks": 51012,
+    "num_produced_blocks": 50943
+  },
+  {
     "account_id": "swiss_staking.stakehouse.betanet",
     "num_expected_blocks": 55306,
     "num_produced_blocks": 50922
@@ -515,9 +520,9 @@
     "num_produced_blocks": 49418
   },
   {
-    "account_id": "pool.48.near",
-    "num_expected_blocks": 49462,
-    "num_produced_blocks": 49393
+    "account_id": "infinite.lux.near",
+    "num_expected_blocks": 49912,
+    "num_produced_blocks": 49243
   },
   {
     "account_id": "shudo",
@@ -530,14 +535,14 @@
     "num_produced_blocks": 48668
   },
   {
+    "account_id": "pool.appload.near",
+    "num_expected_blocks": 48912,
+    "num_produced_blocks": 48131
+  },
+  {
     "account_id": "seby05.betanet",
     "num_expected_blocks": 49910,
     "num_produced_blocks": 48004
-  },
-  {
-    "account_id": "infinite.lux.near",
-    "num_expected_blocks": 48412,
-    "num_produced_blocks": 47743
   },
   {
     "account_id": "audit_two.stakehouse.betanet",
@@ -548,11 +553,6 @@
     "account_id": "meleapool",
     "num_expected_blocks": 47915,
     "num_produced_blocks": 46714
-  },
-  {
-    "account_id": "pool.appload.near",
-    "num_expected_blocks": 47412,
-    "num_produced_blocks": 46631
   },
   {
     "account_id": "blink",
@@ -590,6 +590,11 @@
     "num_produced_blocks": 42114
   },
   {
+    "account_id": "c1.inotel.near",
+    "num_expected_blocks": 42412,
+    "num_produced_blocks": 41136
+  },
+  {
     "account_id": "sllpool",
     "num_expected_blocks": 48018,
     "num_produced_blocks": 40518
@@ -603,11 +608,6 @@
     "account_id": "jazza",
     "num_expected_blocks": 49981,
     "num_produced_blocks": 39877
-  },
-  {
-    "account_id": "c1.inotel.near",
-    "num_expected_blocks": 41112,
-    "num_produced_blocks": 39836
   },
   {
     "account_id": "nearcola",
