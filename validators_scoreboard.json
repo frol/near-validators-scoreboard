@@ -135,6 +135,11 @@
     "num_produced_blocks": 134387
   },
   {
+    "account_id": "poolv1.majlovesreg.near",
+    "num_expected_blocks": 134412,
+    "num_produced_blocks": 134333
+  },
+  {
     "account_id": "c1.hashquark",
     "num_expected_blocks": 140335,
     "num_produced_blocks": 134229
@@ -150,14 +155,9 @@
     "num_produced_blocks": 133386
   },
   {
-    "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 132362,
-    "num_produced_blocks": 132283
-  },
-  {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 125962,
-    "num_produced_blocks": 125933
+    "num_expected_blocks": 127962,
+    "num_produced_blocks": 127933
   },
   {
     "account_id": "coolpool.dimaro1.betanet",
@@ -260,14 +260,14 @@
     "num_produced_blocks": 95050
   },
   {
+    "account_id": "pool.48.near",
+    "num_expected_blocks": 94412,
+    "num_produced_blocks": 94343
+  },
+  {
     "account_id": "huglester",
     "num_expected_blocks": 98196,
     "num_produced_blocks": 92924
-  },
-  {
-    "account_id": "pool.48.near",
-    "num_expected_blocks": 92862,
-    "num_produced_blocks": 92793
   },
   {
     "account_id": "31337x.31337.betanet",
@@ -281,18 +281,18 @@
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 90362,
-    "num_produced_blocks": 89693
+    "num_expected_blocks": 91812,
+    "num_produced_blocks": 91143
+  },
+  {
+    "account_id": "pool.appload.near",
+    "num_expected_blocks": 90812,
+    "num_produced_blocks": 90031
   },
   {
     "account_id": "starlink-pool.stakehouse.betanet",
     "num_expected_blocks": 92112,
     "num_produced_blocks": 89439
-  },
-  {
-    "account_id": "pool.appload.near",
-    "num_expected_blocks": 89362,
-    "num_produced_blocks": 88581
   },
   {
     "account_id": "megatron",
@@ -341,8 +341,8 @@
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 77512,
-    "num_produced_blocks": 76236
+    "num_expected_blocks": 78812,
+    "num_produced_blocks": 77536
   },
   {
     "account_id": "arm.armada.betanet",
@@ -1465,6 +1465,11 @@
     "num_produced_blocks": 400
   },
   {
+    "account_id": "pool.projecttent.near",
+    "num_expected_blocks": 400,
+    "num_produced_blocks": 400
+  },
+  {
     "account_id": "bears.betanet",
     "num_expected_blocks": 400,
     "num_produced_blocks": 400
@@ -1516,11 +1521,6 @@
   },
   {
     "account_id": "exoplanet",
-    "num_expected_blocks": 200,
-    "num_produced_blocks": 200
-  },
-  {
-    "account_id": "pool.projecttent.near",
     "num_expected_blocks": 200,
     "num_produced_blocks": 200
   },
