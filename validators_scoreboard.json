@@ -46,8 +46,8 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 215912,
-    "num_produced_blocks": 215797
+    "num_expected_blocks": 217962,
+    "num_produced_blocks": 217847
   },
   {
     "account_id": "node1",
@@ -56,8 +56,8 @@
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 207462,
-    "num_produced_blocks": 207433
+    "num_expected_blocks": 209462,
+    "num_produced_blocks": 209433
   },
   {
     "account_id": "validator_italia_contract",
@@ -116,8 +116,13 @@
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 154462,
-    "num_produced_blocks": 154392
+    "num_expected_blocks": 155962,
+    "num_produced_blocks": 155892
+  },
+  {
+    "account_id": "infinite.lux.near",
+    "num_expected_blocks": 151212,
+    "num_produced_blocks": 150523
   },
   {
     "account_id": "sc.galbraith.betanet",
@@ -125,14 +130,9 @@
     "num_produced_blocks": 149984
   },
   {
-    "account_id": "infinite.lux.near",
-    "num_expected_blocks": 149762,
-    "num_produced_blocks": 149073
-  },
-  {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 148812,
-    "num_produced_blocks": 148025
+    "num_expected_blocks": 150262,
+    "num_produced_blocks": 149475
   },
   {
     "account_id": "sub.rosalessierra91.betanet",
@@ -176,8 +176,8 @@
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 128862,
-    "num_produced_blocks": 127585
+    "num_expected_blocks": 130112,
+    "num_produced_blocks": 128835
   },
   {
     "account_id": "coolpool.dimaro1.betanet",
@@ -901,8 +901,8 @@
   },
   {
     "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 18550,
-    "num_produced_blocks": 17949
+    "num_expected_blocks": 18850,
+    "num_produced_blocks": 18249
   },
   {
     "account_id": "farm",
