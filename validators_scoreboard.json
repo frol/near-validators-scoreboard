@@ -51,18 +51,18 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 209762,
-    "num_produced_blocks": 209648
+    "num_expected_blocks": 211812,
+    "num_produced_blocks": 211698
+  },
+  {
+    "account_id": "pool.jazza-betanet.near",
+    "num_expected_blocks": 203462,
+    "num_produced_blocks": 203433
   },
   {
     "account_id": "validator_italia_contract",
     "num_expected_blocks": 205640,
     "num_produced_blocks": 201452
-  },
-  {
-    "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 201462,
-    "num_produced_blocks": 201433
   },
   {
     "account_id": "silver1",
@@ -115,24 +115,24 @@
     "num_produced_blocks": 160529
   },
   {
+    "account_id": "pool.48.near",
+    "num_expected_blocks": 151462,
+    "num_produced_blocks": 151392
+  },
+  {
     "account_id": "sc.galbraith.betanet",
     "num_expected_blocks": 152829,
     "num_produced_blocks": 149984
   },
   {
-    "account_id": "pool.48.near",
-    "num_expected_blocks": 149962,
-    "num_produced_blocks": 149892
-  },
-  {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 145412,
-    "num_produced_blocks": 144723
+    "num_expected_blocks": 146862,
+    "num_produced_blocks": 146173
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 144462,
-    "num_produced_blocks": 143675
+    "num_expected_blocks": 145912,
+    "num_produced_blocks": 145125
   },
   {
     "account_id": "sub.rosalessierra91.betanet",
@@ -186,8 +186,8 @@
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 125112,
-    "num_produced_blocks": 123835
+    "num_expected_blocks": 126362,
+    "num_produced_blocks": 125085
   },
   {
     "account_id": "sc.foxnorth1210.betanet",
@@ -900,14 +900,14 @@
     "num_produced_blocks": 18287
   },
   {
+    "account_id": "pool.zavodilbetanet.near",
+    "num_expected_blocks": 17950,
+    "num_produced_blocks": 17349
+  },
+  {
     "account_id": "farm",
     "num_expected_blocks": 21802,
     "num_produced_blocks": 17305
-  },
-  {
-    "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 17650,
-    "num_produced_blocks": 17049
   },
   {
     "account_id": "bisontrails.stakehouse.betanet",
