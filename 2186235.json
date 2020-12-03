@@ -1,0 +1,79 @@
+[
+  {
+    "account_id": "c1.inotel.near",
+    "public_key": "ed25519:AdRBDme834sua8FqtwxuAYm4XhP2PyYV7ZjeV3cEpmJ5",
+    "is_slashed": false,
+    "stake": "195557504774713628087562160104",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 1250,
+    "num_expected_blocks": 1250
+  },
+  {
+    "account_id": "infinite.lux.near",
+    "public_key": "ed25519:E8MAM9q5ikkoye81wKiD814GFachTogWwLfE4pZxQwKX",
+    "is_slashed": false,
+    "stake": "221743086520833998989584791583",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 1450,
+    "num_expected_blocks": 1450
+  },
+  {
+    "account_id": "pool.48.near",
+    "public_key": "ed25519:HkchASewGKi7cHiif44mtB1xd3oxyxsNGd8sLgemKybP",
+    "is_slashed": false,
+    "stake": "232316649918526119416899649056",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 1500,
+    "num_expected_blocks": 1500
+  },
+  {
+    "account_id": "pool.appload.near",
+    "public_key": "ed25519:5jo9rs39n5tmXv5TnPup1ErQjajhYvZ5YWyS8pnapyLw",
+    "is_slashed": false,
+    "stake": "222101551174718853681567253063",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 1450,
+    "num_expected_blocks": 1450
+  },
+  {
+    "account_id": "pool.jazza-betanet.near",
+    "public_key": "ed25519:4cKWhGQHfAZkUix3fcsDBVoRSerFwPD3GUMPNqeUJFgY",
+    "is_slashed": false,
+    "stake": "301170486163501088533784403542",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2000,
+    "num_expected_blocks": 2000
+  },
+  {
+    "account_id": "pool.zavodilbetanet.near",
+    "public_key": "ed25519:2bZushgumNPRXqVdaiWdBAJcfbtUZ4LiWZhC8moXRJ5u",
+    "is_slashed": false,
+    "stake": "45719410702269411621937696543",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 300,
+    "num_expected_blocks": 300
+  },
+  {
+    "account_id": "poolv1.majlovesreg.near",
+    "public_key": "ed25519:8VFKemtwwy2gWaRBsRGiypDJUKUjdpe2SRRzBuPCnXRd",
+    "is_slashed": false,
+    "stake": "313006315032374346853805269526",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2050,
+    "num_expected_blocks": 2050
+  }
+]
