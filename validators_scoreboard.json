@@ -1,28 +1,28 @@
 [
   {
     "account_id": "node1",
-    "num_expected_blocks": 2091290,
-    "num_produced_blocks": 2087937
+    "num_expected_blocks": 2096042,
+    "num_produced_blocks": 2092683
   },
   {
     "account_id": "node2",
-    "num_expected_blocks": 1716315,
-    "num_produced_blocks": 1704694
+    "num_expected_blocks": 1721067,
+    "num_produced_blocks": 1707719
   },
   {
     "account_id": "node0",
-    "num_expected_blocks": 1500747,
-    "num_produced_blocks": 1481382
+    "num_expected_blocks": 1505499,
+    "num_produced_blocks": 1486101
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 1289525,
-    "num_produced_blocks": 1283157
+    "num_expected_blocks": 1294277,
+    "num_produced_blocks": 1287892
   },
   {
     "account_id": "inotel.pool.f863973.m0",
-    "num_expected_blocks": 324865,
-    "num_produced_blocks": 324176
+    "num_expected_blocks": 327673,
+    "num_produced_blocks": 326982
   },
   {
     "account_id": "fresh_lockup.pool.f863973.m0",
@@ -31,28 +31,33 @@
   },
   {
     "account_id": "lunanova.pool.f863973.m0",
-    "num_expected_blocks": 317952,
-    "num_produced_blocks": 316768
+    "num_expected_blocks": 320760,
+    "num_produced_blocks": 319575
   },
   {
     "account_id": "valeraverim.pool.f863973.m0",
-    "num_expected_blocks": 306938,
-    "num_produced_blocks": 297563
+    "num_expected_blocks": 309746,
+    "num_produced_blocks": 300142
   },
   {
     "account_id": "jazza.pool.f863973.m0",
-    "num_expected_blocks": 288575,
-    "num_produced_blocks": 286636
+    "num_expected_blocks": 290951,
+    "num_produced_blocks": 289011
   },
   {
     "account_id": "alexandruast.pool.f863973.m0",
-    "num_expected_blocks": 274968,
-    "num_produced_blocks": 273931
+    "num_expected_blocks": 277344,
+    "num_produced_blocks": 276306
   },
   {
     "account_id": "blazenet.pool.f863973.m0",
-    "num_expected_blocks": 259633,
-    "num_produced_blocks": 258295
+    "num_expected_blocks": 261793,
+    "num_produced_blocks": 260449
+  },
+  {
+    "account_id": "orangeclub.pool.f863973.m0",
+    "num_expected_blocks": 268486,
+    "num_produced_blocks": 258237
   },
   {
     "account_id": "bisontrails.pool.f863973.m0",
@@ -60,14 +65,9 @@
     "num_produced_blocks": 257753
   },
   {
-    "account_id": "orangeclub.pool.f863973.m0",
-    "num_expected_blocks": 266542,
-    "num_produced_blocks": 256293
-  },
-  {
     "account_id": "dokia.pool.f863973.m0",
-    "num_expected_blocks": 224638,
-    "num_produced_blocks": 220460
+    "num_expected_blocks": 226366,
+    "num_produced_blocks": 222188
   },
   {
     "account_id": "staked.pool.6fb1358",
@@ -81,12 +81,12 @@
   },
   {
     "account_id": "stakin.pool.f863973.m0",
-    "num_expected_blocks": 205847,
-    "num_produced_blocks": 203853
+    "num_expected_blocks": 207575,
+    "num_produced_blocks": 205578
   },
   {
     "account_id": "01node.pool.f863973.m0",
-    "num_expected_blocks": 199369,
+    "num_expected_blocks": 201097,
     "num_produced_blocks": 198620
   },
   {
@@ -151,8 +151,8 @@
   },
   {
     "account_id": "chorus-one.pool.f863973.m0",
-    "num_expected_blocks": 97848,
-    "num_produced_blocks": 95556
+    "num_expected_blocks": 98712,
+    "num_produced_blocks": 96420
   },
   {
     "account_id": "lowfeevalidation.pool.f863973.m0",
@@ -211,8 +211,8 @@
   },
   {
     "account_id": "p2p.pool.f863973.m0",
-    "num_expected_blocks": 32832,
-    "num_produced_blocks": 32032
+    "num_expected_blocks": 33264,
+    "num_produced_blocks": 32464
   },
   {
     "account_id": "iosg.pool.f863973.m0",
@@ -251,8 +251,8 @@
   },
   {
     "account_id": "tribe-pool.pool.f863973.m0",
-    "num_expected_blocks": 6048,
-    "num_produced_blocks": 5684
+    "num_expected_blocks": 6264,
+    "num_produced_blocks": 5900
   },
   {
     "account_id": "canary0.near",
@@ -276,8 +276,8 @@
   },
   {
     "account_id": "rioblocks.pool.f863973.m0",
-    "num_expected_blocks": 432,
-    "num_produced_blocks": 432
+    "num_expected_blocks": 648,
+    "num_produced_blocks": 646
   },
   {
     "account_id": "okexpool.pool.f863973.m0",
