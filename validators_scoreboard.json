@@ -1,8 +1,8 @@
 [
   {
     "account_id": "node1",
-    "num_expected_blocks": 2128874,
-    "num_produced_blocks": 2125489
+    "num_expected_blocks": 2134274,
+    "num_produced_blocks": 2130888
   },
   {
     "account_id": "node2",
@@ -11,23 +11,23 @@
   },
   {
     "account_id": "node0",
-    "num_expected_blocks": 1538547,
-    "num_produced_blocks": 1519062
+    "num_expected_blocks": 1543947,
+    "num_produced_blocks": 1524460
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 1327326,
-    "num_produced_blocks": 1320845
+    "num_expected_blocks": 1332726,
+    "num_produced_blocks": 1326245
   },
   {
     "account_id": "inotel.pool.f863973.m0",
-    "num_expected_blocks": 347545,
-    "num_produced_blocks": 346837
+    "num_expected_blocks": 350785,
+    "num_produced_blocks": 350076
   },
   {
     "account_id": "lunanova.pool.f863973.m0",
-    "num_expected_blocks": 340416,
-    "num_produced_blocks": 339222
+    "num_expected_blocks": 343656,
+    "num_produced_blocks": 342462
   },
   {
     "account_id": "fresh_lockup.pool.f863973.m0",
@@ -36,28 +36,28 @@
   },
   {
     "account_id": "valeraverim.pool.f863973.m0",
-    "num_expected_blocks": 319034,
-    "num_produced_blocks": 308841
+    "num_expected_blocks": 322274,
+    "num_produced_blocks": 311681
   },
   {
     "account_id": "jazza.pool.f863973.m0",
-    "num_expected_blocks": 308015,
-    "num_produced_blocks": 306067
+    "num_expected_blocks": 310823,
+    "num_produced_blocks": 308874
   },
   {
     "account_id": "alexandruast.pool.f863973.m0",
-    "num_expected_blocks": 294408,
-    "num_produced_blocks": 293365
+    "num_expected_blocks": 297216,
+    "num_produced_blocks": 296173
   },
   {
     "account_id": "blazenet.pool.f863973.m0",
-    "num_expected_blocks": 277561,
-    "num_produced_blocks": 276077
+    "num_expected_blocks": 280153,
+    "num_produced_blocks": 278666
   },
   {
     "account_id": "orangeclub.pool.f863973.m0",
-    "num_expected_blocks": 282526,
-    "num_produced_blocks": 272276
+    "num_expected_blocks": 284902,
+    "num_produced_blocks": 274652
   },
   {
     "account_id": "bisontrails.pool.f863973.m0",
@@ -66,13 +66,13 @@
   },
   {
     "account_id": "dokia.pool.f863973.m0",
-    "num_expected_blocks": 239542,
-    "num_produced_blocks": 235361
+    "num_expected_blocks": 241918,
+    "num_produced_blocks": 237737
   },
   {
     "account_id": "stakin.pool.f863973.m0",
-    "num_expected_blocks": 220319,
-    "num_produced_blocks": 218317
+    "num_expected_blocks": 222479,
+    "num_produced_blocks": 220477
   },
   {
     "account_id": "staked.pool.6fb1358",
@@ -141,8 +141,8 @@
   },
   {
     "account_id": "chorus-one.pool.f863973.m0",
-    "num_expected_blocks": 105624,
-    "num_produced_blocks": 103327
+    "num_expected_blocks": 106704,
+    "num_produced_blocks": 104407
   },
   {
     "account_id": "aquarius.pool.f863973.m0",
@@ -211,8 +211,8 @@
   },
   {
     "account_id": "p2p.pool.f863973.m0",
-    "num_expected_blocks": 36504,
-    "num_produced_blocks": 35702
+    "num_expected_blocks": 36936,
+    "num_produced_blocks": 36134
   },
   {
     "account_id": "iosg.pool.f863973.m0",
@@ -251,13 +251,18 @@
   },
   {
     "account_id": "tribe-pool.pool.f863973.m0",
-    "num_expected_blocks": 7560,
-    "num_produced_blocks": 7182
+    "num_expected_blocks": 7776,
+    "num_produced_blocks": 7393
   },
   {
     "account_id": "canary0.near",
     "num_expected_blocks": 5616,
     "num_produced_blocks": 4910
+  },
+  {
+    "account_id": "rioblocks.pool.f863973.m0",
+    "num_expected_blocks": 2160,
+    "num_produced_blocks": 2156
   },
   {
     "account_id": "cryptium.pool.f863973.m0",
@@ -270,14 +275,9 @@
     "num_produced_blocks": 1965
   },
   {
-    "account_id": "rioblocks.pool.f863973.m0",
-    "num_expected_blocks": 1944,
-    "num_produced_blocks": 1941
-  },
-  {
     "account_id": "sweden.pool.f863973.m0",
-    "num_expected_blocks": 1296,
-    "num_produced_blocks": 1288
+    "num_expected_blocks": 1512,
+    "num_produced_blocks": 1504
   },
   {
     "account_id": "buildlinks3.pool.f863973.m0",
