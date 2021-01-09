@@ -1,53 +1,53 @@
 [
   {
     "account_id": "node1",
-    "num_expected_blocks": 2616388,
-    "num_produced_blocks": 2592414
+    "num_expected_blocks": 2621356,
+    "num_produced_blocks": 2597382
   },
   {
     "account_id": "node2",
-    "num_expected_blocks": 1856067,
-    "num_produced_blocks": 1839973
+    "num_expected_blocks": 1859739,
+    "num_produced_blocks": 1843645
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 1804257,
-    "num_produced_blocks": 1795557
+    "num_expected_blocks": 1808361,
+    "num_produced_blocks": 1799661
   },
   {
     "account_id": "node0",
-    "num_expected_blocks": 1648276,
-    "num_produced_blocks": 1601589
+    "num_expected_blocks": 1651948,
+    "num_produced_blocks": 1605261
   },
   {
     "account_id": "lunanova.pool.f863973.m0",
-    "num_expected_blocks": 759456,
-    "num_produced_blocks": 757883
+    "num_expected_blocks": 763344,
+    "num_produced_blocks": 761771
   },
   {
     "account_id": "inotel.pool.f863973.m0",
-    "num_expected_blocks": 722955,
-    "num_produced_blocks": 710375
+    "num_expected_blocks": 726627,
+    "num_produced_blocks": 714047
   },
   {
     "account_id": "valeraverim.pool.f863973.m0",
-    "num_expected_blocks": 696171,
-    "num_produced_blocks": 678684
+    "num_expected_blocks": 699627,
+    "num_produced_blocks": 682140
   },
   {
     "account_id": "dokia.pool.f863973.m0",
-    "num_expected_blocks": 552312,
-    "num_produced_blocks": 547526
+    "num_expected_blocks": 555120,
+    "num_produced_blocks": 550334
   },
   {
     "account_id": "orangeclub.pool.f863973.m0",
-    "num_expected_blocks": 531359,
-    "num_produced_blocks": 511155
+    "num_expected_blocks": 533735,
+    "num_produced_blocks": 513531
   },
   {
     "account_id": "stakin.pool.f863973.m0",
-    "num_expected_blocks": 497881,
-    "num_produced_blocks": 495717
+    "num_expected_blocks": 500473,
+    "num_produced_blocks": 498309
   },
   {
     "account_id": "jazza.pool.f863973.m0",
@@ -61,8 +61,13 @@
   },
   {
     "account_id": "blazenet.pool.f863973.m0",
-    "num_expected_blocks": 397873,
-    "num_produced_blocks": 379274
+    "num_expected_blocks": 399817,
+    "num_produced_blocks": 381218
+  },
+  {
+    "account_id": "masternode24.pool.f863973.m0",
+    "num_expected_blocks": 330482,
+    "num_produced_blocks": 322594
   },
   {
     "account_id": "fresh_lockup.pool.f863973.m0",
@@ -70,14 +75,9 @@
     "num_produced_blocks": 321448
   },
   {
-    "account_id": "masternode24.pool.f863973.m0",
-    "num_expected_blocks": 328754,
-    "num_produced_blocks": 320866
-  },
-  {
     "account_id": "staked.pool.f863973.m0",
-    "num_expected_blocks": 332639,
-    "num_produced_blocks": 317925
+    "num_expected_blocks": 334151,
+    "num_produced_blocks": 319437
   },
   {
     "account_id": "01node.pool.f863973.m0",
@@ -96,8 +96,8 @@
   },
   {
     "account_id": "chorus-one.pool.f863973.m0",
-    "num_expected_blocks": 227668,
-    "num_produced_blocks": 222378
+    "num_expected_blocks": 228964,
+    "num_produced_blocks": 223674
   },
   {
     "account_id": "sl1sub.pool.f863973.m0",
@@ -146,8 +146,8 @@
   },
   {
     "account_id": "p2p.pool.f863973.m0",
-    "num_expected_blocks": 105408,
-    "num_produced_blocks": 103145
+    "num_expected_blocks": 106056,
+    "num_produced_blocks": 103793
   },
   {
     "account_id": "aquarius.pool.f863973.m0",
@@ -191,8 +191,8 @@
   },
   {
     "account_id": "nodeasy.pool.f863973.m0",
-    "num_expected_blocks": 73223,
-    "num_produced_blocks": 54778
+    "num_expected_blocks": 73439,
+    "num_produced_blocks": 54994
   },
   {
     "account_id": "kronos.pool.f863973.m0",
@@ -216,18 +216,18 @@
   },
   {
     "account_id": "tribe-pool.pool.f863973.m0",
-    "num_expected_blocks": 39313,
-    "num_produced_blocks": 38228
+    "num_expected_blocks": 39529,
+    "num_produced_blocks": 38444
   },
   {
     "account_id": "sweden.pool.f863973.m0",
-    "num_expected_blocks": 22896,
-    "num_produced_blocks": 22791
+    "num_expected_blocks": 23112,
+    "num_produced_blocks": 23007
   },
   {
     "account_id": "nearpy.pool.f863973.m0",
-    "num_expected_blocks": 21168,
-    "num_produced_blocks": 20710
+    "num_expected_blocks": 21384,
+    "num_produced_blocks": 20926
   },
   {
     "account_id": "iosg.pool.f863973.m0",
