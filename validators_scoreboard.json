@@ -1,8 +1,13 @@
 [
   {
     "account_id": "node3",
-    "num_expected_blocks": 1333189,
-    "num_produced_blocks": 1330327
+    "num_expected_blocks": 1335489,
+    "num_produced_blocks": 1332627
+  },
+  {
+    "account_id": "node2",
+    "num_expected_blocks": 1334121,
+    "num_produced_blocks": 1331111
   },
   {
     "account_id": "node0",
@@ -10,39 +15,34 @@
     "num_produced_blocks": 1330176
   },
   {
-    "account_id": "node2",
-    "num_expected_blocks": 1331821,
-    "num_produced_blocks": 1328811
-  },
-  {
     "account_id": "node1",
-    "num_expected_blocks": 1315824,
-    "num_produced_blocks": 1312986
+    "num_expected_blocks": 1318124,
+    "num_produced_blocks": 1315286
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 581262,
-    "num_produced_blocks": 581024
+    "num_expected_blocks": 582012,
+    "num_produced_blocks": 581774
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 542862,
-    "num_produced_blocks": 541603
+    "num_expected_blocks": 543562,
+    "num_produced_blocks": 542303
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 389163,
-    "num_produced_blocks": 384615
+    "num_expected_blocks": 389663,
+    "num_produced_blocks": 385115
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 381362,
-    "num_produced_blocks": 377848
+    "num_expected_blocks": 381862,
+    "num_produced_blocks": 378348
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 373814,
-    "num_produced_blocks": 371042
+    "num_expected_blocks": 374314,
+    "num_produced_blocks": 371542
   },
   {
     "account_id": "ag_staking",
@@ -541,8 +541,8 @@
   },
   {
     "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 49550,
-    "num_produced_blocks": 48881
+    "num_expected_blocks": 49650,
+    "num_produced_blocks": 48981
   },
   {
     "account_id": "majlovesreg.stakehouse.betanet",
@@ -611,8 +611,8 @@
   },
   {
     "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 40850,
-    "num_produced_blocks": 40031
+    "num_expected_blocks": 40900,
+    "num_produced_blocks": 40081
   },
   {
     "account_id": "jazza",
