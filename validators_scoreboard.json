@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node2",
-    "num_expected_blocks": 2185621,
-    "num_produced_blocks": 2182336
+    "num_expected_blocks": 2187921,
+    "num_produced_blocks": 2184636
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 2184142,
-    "num_produced_blocks": 2180927
+    "num_expected_blocks": 2186442,
+    "num_produced_blocks": 2183227
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 2171625,
-    "num_produced_blocks": 2168542
+    "num_expected_blocks": 2173925,
+    "num_produced_blocks": 2170842
   },
   {
     "account_id": "node0",
@@ -21,28 +21,28 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 861312,
-    "num_produced_blocks": 860358
+    "num_expected_blocks": 862062,
+    "num_produced_blocks": 861108
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 803262,
-    "num_produced_blocks": 801272
+    "num_expected_blocks": 803962,
+    "num_produced_blocks": 801972
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 575963,
-    "num_produced_blocks": 569661
+    "num_expected_blocks": 576463,
+    "num_produced_blocks": 570161
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 559913,
-    "num_produced_blocks": 556008
+    "num_expected_blocks": 560413,
+    "num_produced_blocks": 556508
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 559115,
-    "num_produced_blocks": 554671
+    "num_expected_blocks": 559615,
+    "num_produced_blocks": 555171
   },
   {
     "account_id": "c1.inotel.near",
@@ -285,14 +285,14 @@
     "num_produced_blocks": 92924
   },
   {
+    "account_id": "pool.projecttent.near",
+    "num_expected_blocks": 92850,
+    "num_produced_blocks": 92061
+  },
+  {
     "account_id": "31337x.31337.betanet",
     "num_expected_blocks": 96249,
     "num_produced_blocks": 92059
-  },
-  {
-    "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 92750,
-    "num_produced_blocks": 91961
   },
   {
     "account_id": "kokos-anti-covid",
@@ -466,8 +466,8 @@
   },
   {
     "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 61000,
-    "num_produced_blocks": 59974
+    "num_expected_blocks": 61050,
+    "num_produced_blocks": 60024
   },
   {
     "account_id": "mmm.stakehouse.betanet",
