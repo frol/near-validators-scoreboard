@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node1",
-    "num_expected_blocks": 3341722,
-    "num_produced_blocks": 3316627
+    "num_expected_blocks": 3347554,
+    "num_produced_blocks": 3322443
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 2398911,
-    "num_produced_blocks": 2389796
+    "num_expected_blocks": 2403663,
+    "num_produced_blocks": 2394531
   },
   {
     "account_id": "node2",
-    "num_expected_blocks": 2347469,
-    "num_produced_blocks": 2323508
+    "num_expected_blocks": 2351573,
+    "num_produced_blocks": 2327595
   },
   {
     "account_id": "node0",
@@ -21,18 +21,18 @@
   },
   {
     "account_id": "lunanova.pool.f863973.m0",
-    "num_expected_blocks": 1330561,
-    "num_produced_blocks": 1328693
+    "num_expected_blocks": 1335529,
+    "num_produced_blocks": 1333629
   },
   {
     "account_id": "inotel.pool.f863973.m0",
-    "num_expected_blocks": 1206366,
-    "num_produced_blocks": 1192888
+    "num_expected_blocks": 1210470,
+    "num_produced_blocks": 1196983
   },
   {
     "account_id": "dokia.pool.f863973.m0",
-    "num_expected_blocks": 949970,
-    "num_produced_blocks": 940121
+    "num_expected_blocks": 953210,
+    "num_produced_blocks": 943334
   },
   {
     "account_id": "valeraverim.pool.f863973.m0",
@@ -56,13 +56,13 @@
   },
   {
     "account_id": "blazenet.pool.f863973.m0",
-    "num_expected_blocks": 615389,
-    "num_produced_blocks": 588851
+    "num_expected_blocks": 617333,
+    "num_produced_blocks": 590786
   },
   {
     "account_id": "masternode24.pool.f863973.m0",
-    "num_expected_blocks": 500907,
-    "num_produced_blocks": 485673
+    "num_expected_blocks": 502635,
+    "num_produced_blocks": 487394
   },
   {
     "account_id": "alexandruast.pool.f863973.m0",
@@ -71,8 +71,8 @@
   },
   {
     "account_id": "staked.pool.f863973.m0",
-    "num_expected_blocks": 473903,
-    "num_produced_blocks": 449341
+    "num_expected_blocks": 475415,
+    "num_produced_blocks": 450845
   },
   {
     "account_id": "01node.pool.f863973.m0",
@@ -81,8 +81,8 @@
   },
   {
     "account_id": "chorus-one.pool.f863973.m0",
-    "num_expected_blocks": 374766,
-    "num_produced_blocks": 362040
+    "num_expected_blocks": 376062,
+    "num_produced_blocks": 363336
   },
   {
     "account_id": "fresh_lockup.pool.f863973.m0",
@@ -101,8 +101,8 @@
   },
   {
     "account_id": "p2p.pool.f863973.m0",
-    "num_expected_blocks": 196992,
-    "num_produced_blocks": 194683
+    "num_expected_blocks": 197640,
+    "num_produced_blocks": 195331
   },
   {
     "account_id": "sl1sub.pool.f863973.m0",
@@ -186,13 +186,13 @@
   },
   {
     "account_id": "tribe-pool.pool.f863973.m0",
-    "num_expected_blocks": 75601,
-    "num_produced_blocks": 73937
+    "num_expected_blocks": 76033,
+    "num_produced_blocks": 74359
   },
   {
     "account_id": "nodeasy.pool.f863973.m0",
-    "num_expected_blocks": 94391,
-    "num_produced_blocks": 72333
+    "num_expected_blocks": 94607,
+    "num_produced_blocks": 72549
   },
   {
     "account_id": "zainy.pool.f863973.m0",
@@ -201,8 +201,8 @@
   },
   {
     "account_id": "sweden.pool.f863973.m0",
-    "num_expected_blocks": 49032,
-    "num_produced_blocks": 48184
+    "num_expected_blocks": 49248,
+    "num_produced_blocks": 48397
   },
   {
     "account_id": "kronos.pool.f863973.m0",
@@ -226,13 +226,13 @@
   },
   {
     "account_id": "nearpy.pool.f863973.m0",
-    "num_expected_blocks": 39312,
+    "num_expected_blocks": 39528,
     "num_produced_blocks": 36906
   },
   {
     "account_id": "shawnpool.pool.f863973.m0",
-    "num_expected_blocks": 20304,
-    "num_produced_blocks": 19217
+    "num_expected_blocks": 20520,
+    "num_produced_blocks": 19433
   },
   {
     "account_id": "iosg.pool.f863973.m0",
@@ -268,6 +268,11 @@
     "account_id": "audit_one.pool.f863973.m0",
     "num_expected_blocks": 8856,
     "num_produced_blocks": 7919
+  },
+  {
+    "account_id": "commons_pnw.pool.f863973.m0",
+    "num_expected_blocks": 7776,
+    "num_produced_blocks": 7564
   },
   {
     "account_id": "rioblocks.pool.f863973.m0",
