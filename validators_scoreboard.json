@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node2",
-    "num_expected_blocks": 2527071,
-    "num_produced_blocks": 2523767
+    "num_expected_blocks": 2529421,
+    "num_produced_blocks": 2526117
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 2524992,
-    "num_produced_blocks": 2521771
+    "num_expected_blocks": 2527292,
+    "num_produced_blocks": 2524071
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 2513225,
-    "num_produced_blocks": 2510123
+    "num_expected_blocks": 2515575,
+    "num_produced_blocks": 2512473
   },
   {
     "account_id": "node0",
@@ -21,28 +21,28 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 972512,
-    "num_produced_blocks": 971496
+    "num_expected_blocks": 973262,
+    "num_produced_blocks": 972246
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 907062,
-    "num_produced_blocks": 905051
+    "num_expected_blocks": 907762,
+    "num_produced_blocks": 905751
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 647963,
-    "num_produced_blocks": 641098
+    "num_expected_blocks": 648463,
+    "num_produced_blocks": 641598
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 633913,
-    "num_produced_blocks": 629991
+    "num_expected_blocks": 634413,
+    "num_produced_blocks": 630491
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 633315,
-    "num_produced_blocks": 628870
+    "num_expected_blocks": 633815,
+    "num_produced_blocks": 629370
   },
   {
     "account_id": "c1.inotel.near",
@@ -410,14 +410,14 @@
     "num_produced_blocks": 67802
   },
   {
+    "account_id": "pool.zavodilbetanet.near",
+    "num_expected_blocks": 68450,
+    "num_produced_blocks": 67423
+  },
+  {
     "account_id": "node",
     "num_expected_blocks": 69004,
     "num_produced_blocks": 67390
-  },
-  {
-    "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 68400,
-    "num_produced_blocks": 67373
   },
   {
     "account_id": "emilia.stakehouse.betanet",
