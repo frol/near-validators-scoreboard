@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node2",
-    "num_expected_blocks": 2522371,
-    "num_produced_blocks": 2519067
+    "num_expected_blocks": 2524721,
+    "num_produced_blocks": 2521417
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 2520392,
-    "num_produced_blocks": 2517171
+    "num_expected_blocks": 2522692,
+    "num_produced_blocks": 2519471
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 2508525,
-    "num_produced_blocks": 2505423
+    "num_expected_blocks": 2510875,
+    "num_produced_blocks": 2507773
   },
   {
     "account_id": "node0",
@@ -21,28 +21,28 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 971012,
-    "num_produced_blocks": 969996
+    "num_expected_blocks": 971762,
+    "num_produced_blocks": 970746
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 905662,
-    "num_produced_blocks": 903651
+    "num_expected_blocks": 906362,
+    "num_produced_blocks": 904351
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 646963,
-    "num_produced_blocks": 640098
+    "num_expected_blocks": 647463,
+    "num_produced_blocks": 640598
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 632913,
-    "num_produced_blocks": 628991
+    "num_expected_blocks": 633413,
+    "num_produced_blocks": 629491
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 632315,
-    "num_produced_blocks": 627870
+    "num_expected_blocks": 632815,
+    "num_produced_blocks": 628370
   },
   {
     "account_id": "c1.inotel.near",
@@ -415,14 +415,14 @@
     "num_produced_blocks": 67390
   },
   {
+    "account_id": "pool.zavodilbetanet.near",
+    "num_expected_blocks": 68350,
+    "num_produced_blocks": 67323
+  },
+  {
     "account_id": "emilia.stakehouse.betanet",
     "num_expected_blocks": 70443,
     "num_produced_blocks": 67282
-  },
-  {
-    "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 68300,
-    "num_produced_blocks": 67273
   },
   {
     "account_id": "bitcat.stakehouse.betanet",
