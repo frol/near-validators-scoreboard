@@ -1,0 +1,90 @@
+[
+  {
+    "account_id": "infinite.lux.near",
+    "public_key": "ed25519:E8MAM9q5ikkoye81wKiD814GFachTogWwLfE4pZxQwKX",
+    "is_slashed": false,
+    "stake": "712881847042663242264974991766",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 550,
+    "num_expected_blocks": 550
+  },
+  {
+    "account_id": "node1",
+    "public_key": "ed25519:6DSjZ8mvsRZDvFqFxo8tCKePG96omXW7eVYVSySmDk8e",
+    "is_slashed": false,
+    "stake": "3136149600994246913043088222097",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2450,
+    "num_expected_blocks": 2450
+  },
+  {
+    "account_id": "node2",
+    "public_key": "ed25519:GkDv7nSMS3xcqA45cpMvFmfV1o4fRF6zYo1JRR6mNqg5",
+    "is_slashed": false,
+    "stake": "3135606341976332288825791758703",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2450,
+    "num_expected_blocks": 2450
+  },
+  {
+    "account_id": "node3",
+    "public_key": "ed25519:ydgzeXHJ5Xyt7M1gXLxqLBW1Ejx6scNV5Nx2pxFM8su",
+    "is_slashed": false,
+    "stake": "3135018126900983439156058936037",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 2400,
+    "num_expected_blocks": 2400
+  },
+  {
+    "account_id": "pool.appload.near",
+    "public_key": "ed25519:5jo9rs39n5tmXv5TnPup1ErQjajhYvZ5YWyS8pnapyLw",
+    "is_slashed": false,
+    "stake": "692914474389089248501329855637",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 500,
+    "num_expected_blocks": 500
+  },
+  {
+    "account_id": "pool.jazza-betanet.near",
+    "public_key": "ed25519:4cKWhGQHfAZkUix3fcsDBVoRSerFwPD3GUMPNqeUJFgY",
+    "is_slashed": false,
+    "stake": "998376430593203748299965413166",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 750,
+    "num_expected_blocks": 750
+  },
+  {
+    "account_id": "pool.projecttent.near",
+    "public_key": "ed25519:5cjmmYzjcktwUA3Vqh2dX5PWxEWu8RiWjqnyN4ocJ9YL",
+    "is_slashed": false,
+    "stake": "185897181313255930794162142239",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 100,
+    "num_expected_blocks": 100
+  },
+  {
+    "account_id": "poolv1.majlovesreg.near",
+    "public_key": "ed25519:8VFKemtwwy2gWaRBsRGiypDJUKUjdpe2SRRzBuPCnXRd",
+    "is_slashed": false,
+    "stake": "1044781423077845330185093557016",
+    "shards": [
+      0
+    ],
+    "num_produced_blocks": 800,
+    "num_expected_blocks": 800
+  }
+]
