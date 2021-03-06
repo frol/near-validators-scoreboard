@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node2",
-    "num_expected_blocks": 2644823,
-    "num_produced_blocks": 2641499
+    "num_expected_blocks": 2647123,
+    "num_produced_blocks": 2643799
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 2641792,
-    "num_produced_blocks": 2638523
+    "num_expected_blocks": 2644092,
+    "num_produced_blocks": 2640823
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 2632276,
-    "num_produced_blocks": 2629151
+    "num_expected_blocks": 2634626,
+    "num_produced_blocks": 2631501
   },
   {
     "account_id": "node0",
@@ -21,28 +21,28 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1007512,
-    "num_produced_blocks": 1004955
+    "num_expected_blocks": 1008262,
+    "num_produced_blocks": 1005705
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 943213,
-    "num_produced_blocks": 941159
+    "num_expected_blocks": 943913,
+    "num_produced_blocks": 941859
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 672363,
-    "num_produced_blocks": 664478
+    "num_expected_blocks": 672863,
+    "num_produced_blocks": 664909
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 654263,
-    "num_produced_blocks": 650239
+    "num_expected_blocks": 654763,
+    "num_produced_blocks": 650739
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 649816,
-    "num_produced_blocks": 644366
+    "num_expected_blocks": 650316,
+    "num_produced_blocks": 644866
   },
   {
     "account_id": "c1.inotel.near",
@@ -250,14 +250,14 @@
     "num_produced_blocks": 109331
   },
   {
+    "account_id": "pool.projecttent.near",
+    "num_expected_blocks": 109950,
+    "num_produced_blocks": 109144
+  },
+  {
     "account_id": "janliamnilsson",
     "num_expected_blocks": 115851,
     "num_produced_blocks": 109077
-  },
-  {
-    "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 109850,
-    "num_produced_blocks": 109044
   },
   {
     "account_id": "dog.bears.betanet",
