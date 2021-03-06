@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node2",
-    "num_expected_blocks": 2649423,
-    "num_produced_blocks": 2646099
+    "num_expected_blocks": 2651873,
+    "num_produced_blocks": 2648549
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 2646392,
-    "num_produced_blocks": 2643123
+    "num_expected_blocks": 2648792,
+    "num_produced_blocks": 2645523
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 2636976,
-    "num_produced_blocks": 2633851
+    "num_expected_blocks": 2639426,
+    "num_produced_blocks": 2636301
   },
   {
     "account_id": "node0",
@@ -21,13 +21,13 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1009012,
-    "num_produced_blocks": 1006455
+    "num_expected_blocks": 1009812,
+    "num_produced_blocks": 1007255
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 944613,
-    "num_produced_blocks": 942559
+    "num_expected_blocks": 945363,
+    "num_produced_blocks": 943309
   },
   {
     "account_id": "infinite.lux.near",
@@ -36,13 +36,13 @@
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 655263,
-    "num_produced_blocks": 651239
+    "num_expected_blocks": 655763,
+    "num_produced_blocks": 651739
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 650816,
-    "num_produced_blocks": 645366
+    "num_expected_blocks": 651366,
+    "num_produced_blocks": 645916
   },
   {
     "account_id": "c1.inotel.near",
@@ -245,14 +245,14 @@
     "num_produced_blocks": 110565
   },
   {
+    "account_id": "pool.projecttent.near",
+    "num_expected_blocks": 110150,
+    "num_produced_blocks": 109344
+  },
+  {
     "account_id": "oligarr",
     "num_expected_blocks": 128829,
     "num_produced_blocks": 109331
-  },
-  {
-    "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 110050,
-    "num_produced_blocks": 109244
   },
   {
     "account_id": "janliamnilsson",
