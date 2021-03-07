@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node2",
-    "num_expected_blocks": 2679673,
-    "num_produced_blocks": 2676349
+    "num_expected_blocks": 2681973,
+    "num_produced_blocks": 2678649
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 2676592,
-    "num_produced_blocks": 2673323
+    "num_expected_blocks": 2678892,
+    "num_produced_blocks": 2675623
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 2667826,
-    "num_produced_blocks": 2664701
+    "num_expected_blocks": 2670176,
+    "num_produced_blocks": 2667051
   },
   {
     "account_id": "node0",
@@ -21,28 +21,28 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1018912,
-    "num_produced_blocks": 1016355
+    "num_expected_blocks": 1019662,
+    "num_produced_blocks": 1017105
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 953863,
-    "num_produced_blocks": 951782
+    "num_expected_blocks": 954563,
+    "num_produced_blocks": 952482
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 679463,
-    "num_produced_blocks": 671509
+    "num_expected_blocks": 679963,
+    "num_produced_blocks": 672009
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 660763,
-    "num_produced_blocks": 656231
+    "num_expected_blocks": 661263,
+    "num_produced_blocks": 656731
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 657466,
-    "num_produced_blocks": 652005
+    "num_expected_blocks": 657966,
+    "num_produced_blocks": 652505
   },
   {
     "account_id": "c1.inotel.near",
@@ -240,14 +240,14 @@
     "num_produced_blocks": 111650
   },
   {
+    "account_id": "pool.projecttent.near",
+    "num_expected_blocks": 111450,
+    "num_produced_blocks": 110644
+  },
+  {
     "account_id": "sl-he",
     "num_expected_blocks": 115701,
     "num_produced_blocks": 110565
-  },
-  {
-    "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 111350,
-    "num_produced_blocks": 110544
   },
   {
     "account_id": "oligarr",
