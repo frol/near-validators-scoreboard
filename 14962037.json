@@ -52,7 +52,7 @@
       0
     ],
     "num_produced_blocks": 0,
-    "num_expected_blocks": 500
+    "num_expected_blocks": 0
   },
   {
     "account_id": "pool.appload.near",
@@ -85,7 +85,7 @@
       0
     ],
     "num_produced_blocks": 0,
-    "num_expected_blocks": 50
+    "num_expected_blocks": 0
   },
   {
     "account_id": "poolv1.majlovesreg.near",
@@ -95,7 +95,7 @@
     "shards": [
       0
     ],
-    "num_produced_blocks": 0,
+    "num_produced_blocks": 750,
     "num_expected_blocks": 750
   }
 ]
