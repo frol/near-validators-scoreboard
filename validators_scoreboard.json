@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node2",
-    "num_expected_blocks": 2703273,
-    "num_produced_blocks": 2699960
+    "num_expected_blocks": 2703173,
+    "num_produced_blocks": 2699860
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 2700142,
-    "num_produced_blocks": 2696903
+    "num_expected_blocks": 2700042,
+    "num_produced_blocks": 2696803
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 2691926,
-    "num_produced_blocks": 2688818
+    "num_expected_blocks": 2691826,
+    "num_produced_blocks": 2688718
   },
   {
     "account_id": "node0",
@@ -41,13 +41,13 @@
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 663113,
-    "num_produced_blocks": 658517
+    "num_expected_blocks": 663063,
+    "num_produced_blocks": 658467
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 425762,
-    "num_produced_blocks": 423360
+    "num_expected_blocks": 426112,
+    "num_produced_blocks": 423710
   },
   {
     "account_id": "ag_staking",
