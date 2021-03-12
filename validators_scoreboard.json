@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node2",
-    "num_expected_blocks": 2726724,
-    "num_produced_blocks": 2723404
+    "num_expected_blocks": 2729224,
+    "num_produced_blocks": 2725904
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 2723545,
-    "num_produced_blocks": 2720316
+    "num_expected_blocks": 2726045,
+    "num_produced_blocks": 2722816
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 2715626,
-    "num_produced_blocks": 2712509
+    "num_expected_blocks": 2718126,
+    "num_produced_blocks": 2715009
   },
   {
     "account_id": "node0",
@@ -21,13 +21,13 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1038164,
-    "num_produced_blocks": 1037120
+    "num_expected_blocks": 1038964,
+    "num_produced_blocks": 1037920
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 963413,
-    "num_produced_blocks": 961337
+    "num_expected_blocks": 964013,
+    "num_produced_blocks": 961937
   },
   {
     "account_id": "infinite.lux.near",
@@ -36,8 +36,8 @@
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 671213,
-    "num_produced_blocks": 666706
+    "num_expected_blocks": 671763,
+    "num_produced_blocks": 667256
   },
   {
     "account_id": "pool.48.near",
@@ -46,8 +46,8 @@
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 430162,
-    "num_produced_blocks": 427722
+    "num_expected_blocks": 430562,
+    "num_produced_blocks": 428122
   },
   {
     "account_id": "ag_staking",
@@ -230,14 +230,14 @@
     "num_produced_blocks": 114170
   },
   {
+    "account_id": "pool.projecttent.near",
+    "num_expected_blocks": 114200,
+    "num_produced_blocks": 113395
+  },
+  {
     "account_id": "rioblocks.stakehouse.betanet",
     "num_expected_blocks": 115511,
     "num_produced_blocks": 113376
-  },
-  {
-    "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 114050,
-    "num_produced_blocks": 113245
   },
   {
     "account_id": "delight_pool",
