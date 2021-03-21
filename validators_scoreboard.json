@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node2",
-    "num_expected_blocks": 3009874,
-    "num_produced_blocks": 3006511
+    "num_expected_blocks": 3012224,
+    "num_produced_blocks": 3008861
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 3006793,
-    "num_produced_blocks": 3003542
+    "num_expected_blocks": 3009143,
+    "num_produced_blocks": 3005892
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 3002928,
-    "num_produced_blocks": 2999802
+    "num_expected_blocks": 3005328,
+    "num_produced_blocks": 3002202
   },
   {
     "account_id": "node0",
@@ -21,33 +21,33 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1131664,
-    "num_produced_blocks": 1130586
+    "num_expected_blocks": 1132464,
+    "num_produced_blocks": 1131386
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 1043563,
-    "num_produced_blocks": 1041480
+    "num_expected_blocks": 1044313,
+    "num_produced_blocks": 1042230
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 733063,
-    "num_produced_blocks": 726031
+    "num_expected_blocks": 733363,
+    "num_produced_blocks": 726331
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 712014,
-    "num_produced_blocks": 707445
+    "num_expected_blocks": 712464,
+    "num_produced_blocks": 707895
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 711765,
-    "num_produced_blocks": 707294
+    "num_expected_blocks": 712065,
+    "num_produced_blocks": 707594
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 439062,
-    "num_produced_blocks": 436586
+    "num_expected_blocks": 439262,
+    "num_produced_blocks": 436786
   },
   {
     "account_id": "ag_staking",
@@ -191,8 +191,8 @@
   },
   {
     "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 125900,
-    "num_produced_blocks": 125093
+    "num_expected_blocks": 126000,
+    "num_produced_blocks": 125193
   },
   {
     "account_id": "sc.foxnorth1210.betanet",
