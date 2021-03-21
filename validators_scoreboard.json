@@ -1,18 +1,18 @@
 [
   {
     "account_id": "node2",
-    "num_expected_blocks": 3031024,
-    "num_produced_blocks": 3027659
+    "num_expected_blocks": 3033374,
+    "num_produced_blocks": 3030009
   },
   {
     "account_id": "node3",
-    "num_expected_blocks": 3027943,
-    "num_produced_blocks": 3024692
+    "num_expected_blocks": 3030293,
+    "num_produced_blocks": 3027042
   },
   {
     "account_id": "node1",
-    "num_expected_blocks": 3024128,
-    "num_produced_blocks": 3021002
+    "num_expected_blocks": 3026478,
+    "num_produced_blocks": 3023352
   },
   {
     "account_id": "node0",
@@ -21,33 +21,33 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1138864,
-    "num_produced_blocks": 1137786
+    "num_expected_blocks": 1139664,
+    "num_produced_blocks": 1138586
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 1050313,
-    "num_produced_blocks": 1048230
+    "num_expected_blocks": 1051063,
+    "num_produced_blocks": 1048980
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 735763,
-    "num_produced_blocks": 728731
+    "num_expected_blocks": 736063,
+    "num_produced_blocks": 729031
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 716064,
-    "num_produced_blocks": 711495
+    "num_expected_blocks": 716514,
+    "num_produced_blocks": 711945
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 714465,
-    "num_produced_blocks": 709994
+    "num_expected_blocks": 714765,
+    "num_produced_blocks": 710294
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 440862,
-    "num_produced_blocks": 438386
+    "num_expected_blocks": 441062,
+    "num_produced_blocks": 438586
   },
   {
     "account_id": "ag_staking",
@@ -181,8 +181,8 @@
   },
   {
     "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 126800,
-    "num_produced_blocks": 125993
+    "num_expected_blocks": 126900,
+    "num_produced_blocks": 126093
   },
   {
     "account_id": "coolpool.dimaro1.betanet",
@@ -396,8 +396,8 @@
   },
   {
     "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 70650,
-    "num_produced_blocks": 69623
+    "num_expected_blocks": 70700,
+    "num_produced_blocks": 69673
   },
   {
     "account_id": "sparkpool.test",
