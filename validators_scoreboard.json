@@ -1,5 +1,10 @@
 [
   {
+    "account_id": "node1",
+    "num_expected_blocks": 3168578,
+    "num_produced_blocks": 3165450
+  },
+  {
     "account_id": "node3",
     "num_expected_blocks": 3162393,
     "num_produced_blocks": 3159073
@@ -8,11 +13,6 @@
     "account_id": "node2",
     "num_expected_blocks": 3162126,
     "num_produced_blocks": 3158601
-  },
-  {
-    "account_id": "node1",
-    "num_expected_blocks": 3158578,
-    "num_produced_blocks": 3155450
   },
   {
     "account_id": "node0",
