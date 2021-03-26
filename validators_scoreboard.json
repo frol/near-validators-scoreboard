@@ -1,8 +1,8 @@
 [
   {
     "account_id": "node1",
-    "num_expected_blocks": 3194428,
-    "num_produced_blocks": 3191300
+    "num_expected_blocks": 3199878,
+    "num_produced_blocks": 3196750
   },
   {
     "account_id": "node3",
@@ -21,23 +21,23 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1188964,
-    "num_produced_blocks": 1187844
+    "num_expected_blocks": 1190764,
+    "num_produced_blocks": 1189644
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 1097964,
-    "num_produced_blocks": 1095850
+    "num_expected_blocks": 1099664,
+    "num_produced_blocks": 1097550
+  },
+  {
+    "account_id": "pool.appload.near",
+    "num_expected_blocks": 745464,
+    "num_produced_blocks": 740858
   },
   {
     "account_id": "infinite.lux.near",
     "num_expected_blocks": 747513,
     "num_produced_blocks": 740481
-  },
-  {
-    "account_id": "pool.appload.near",
-    "num_expected_blocks": 744414,
-    "num_produced_blocks": 739808
   },
   {
     "account_id": "pool.48.near",
