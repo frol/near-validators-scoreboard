@@ -1,8 +1,8 @@
 [
   {
     "account_id": "node1",
-    "num_expected_blocks": 3422428,
-    "num_produced_blocks": 3419296
+    "num_expected_blocks": 3427078,
+    "num_produced_blocks": 3423946
   },
   {
     "account_id": "node3",
@@ -21,33 +21,33 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1264764,
-    "num_produced_blocks": 1263601
+    "num_expected_blocks": 1266314,
+    "num_produced_blocks": 1265146
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 1169464,
-    "num_produced_blocks": 1167319
+    "num_expected_blocks": 1170914,
+    "num_produced_blocks": 1168769
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 787614,
-    "num_produced_blocks": 782989
+    "num_expected_blocks": 788514,
+    "num_produced_blocks": 783889
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 761913,
-    "num_produced_blocks": 754879
+    "num_expected_blocks": 762313,
+    "num_produced_blocks": 755279
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 745365,
-    "num_produced_blocks": 740883
+    "num_expected_blocks": 745765,
+    "num_produced_blocks": 741283
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 469712,
-    "num_produced_blocks": 467200
+    "num_expected_blocks": 470112,
+    "num_produced_blocks": 467600
   },
   {
     "account_id": "ag_staking",
@@ -160,6 +160,11 @@
     "num_produced_blocks": 134489
   },
   {
+    "account_id": "pool.projecttent.near",
+    "num_expected_blocks": 135200,
+    "num_produced_blocks": 134391
+  },
+  {
     "account_id": "nfvalidator4.near",
     "num_expected_blocks": 134400,
     "num_produced_blocks": 134387
@@ -168,11 +173,6 @@
     "account_id": "c1.hashquark",
     "num_expected_blocks": 140335,
     "num_produced_blocks": 134229
-  },
-  {
-    "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 134950,
-    "num_produced_blocks": 134141
   },
   {
     "account_id": "nfvalidator1.near",
