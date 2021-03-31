@@ -1,8 +1,8 @@
 [
   {
     "account_id": "node1",
-    "num_expected_blocks": 3547978,
-    "num_produced_blocks": 3544761
+    "num_expected_blocks": 3552628,
+    "num_produced_blocks": 3549411
   },
   {
     "account_id": "node3",
@@ -21,33 +21,33 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1306564,
-    "num_produced_blocks": 1305347
+    "num_expected_blocks": 1308064,
+    "num_produced_blocks": 1306847
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 1208614,
-    "num_produced_blocks": 1206408
+    "num_expected_blocks": 1210064,
+    "num_produced_blocks": 1207858
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 811864,
-    "num_produced_blocks": 807216
+    "num_expected_blocks": 812714,
+    "num_produced_blocks": 808066
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 772713,
-    "num_produced_blocks": 765664
+    "num_expected_blocks": 773113,
+    "num_produced_blocks": 766064
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 756165,
-    "num_produced_blocks": 751670
+    "num_expected_blocks": 756565,
+    "num_produced_blocks": 752070
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 480512,
-    "num_produced_blocks": 477983
+    "num_expected_blocks": 480912,
+    "num_produced_blocks": 478383
   },
   {
     "account_id": "ag_staking",
@@ -140,14 +140,14 @@
     "num_produced_blocks": 149984
   },
   {
+    "account_id": "pool.projecttent.near",
+    "num_expected_blocks": 141950,
+    "num_produced_blocks": 141137
+  },
+  {
     "account_id": "sub.rosalessierra91.betanet",
     "num_expected_blocks": 144742,
     "num_produced_blocks": 140987
-  },
-  {
-    "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 141700,
-    "num_produced_blocks": 140887
   },
   {
     "account_id": "a_validator",
@@ -396,8 +396,8 @@
   },
   {
     "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 72800,
-    "num_produced_blocks": 71771
+    "num_expected_blocks": 72900,
+    "num_produced_blocks": 71871
   },
   {
     "account_id": "sparkpool.test",
