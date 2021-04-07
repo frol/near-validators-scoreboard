@@ -1,8 +1,8 @@
 [
   {
     "account_id": "node1",
-    "num_expected_blocks": 4021883,
-    "num_produced_blocks": 4018292
+    "num_expected_blocks": 4026883,
+    "num_produced_blocks": 4023292
   },
   {
     "account_id": "node3",
@@ -21,33 +21,33 @@
   },
   {
     "account_id": "poolv1.majlovesreg.near",
-    "num_expected_blocks": 1423314,
-    "num_produced_blocks": 1421996
+    "num_expected_blocks": 1424464,
+    "num_produced_blocks": 1423146
   },
   {
     "account_id": "pool.jazza-betanet.near",
-    "num_expected_blocks": 1355114,
-    "num_produced_blocks": 1352769
+    "num_expected_blocks": 1356664,
+    "num_produced_blocks": 1354319
   },
   {
     "account_id": "pool.appload.near",
-    "num_expected_blocks": 901214,
-    "num_produced_blocks": 896499
+    "num_expected_blocks": 902164,
+    "num_produced_blocks": 897449
   },
   {
     "account_id": "infinite.lux.near",
-    "num_expected_blocks": 800813,
-    "num_produced_blocks": 793751
+    "num_expected_blocks": 801063,
+    "num_produced_blocks": 794001
   },
   {
     "account_id": "pool.48.near",
-    "num_expected_blocks": 782565,
-    "num_produced_blocks": 778067
+    "num_expected_blocks": 782865,
+    "num_produced_blocks": 778367
   },
   {
     "account_id": "c1.inotel.near",
-    "num_expected_blocks": 519762,
-    "num_produced_blocks": 517157
+    "num_expected_blocks": 520162,
+    "num_produced_blocks": 517556
   },
   {
     "account_id": "ag_staking",
@@ -115,14 +115,14 @@
     "num_produced_blocks": 175306
   },
   {
+    "account_id": "pool.projecttent.near",
+    "num_expected_blocks": 169450,
+    "num_produced_blocks": 168620
+  },
+  {
     "account_id": "gems",
     "num_expected_blocks": 174733,
     "num_produced_blocks": 168554
-  },
-  {
-    "account_id": "pool.projecttent.near",
-    "num_expected_blocks": 169150,
-    "num_produced_blocks": 168320
   },
   {
     "account_id": "volvos60909",
@@ -331,8 +331,8 @@
   },
   {
     "account_id": "pool.zavodilbetanet.near",
-    "num_expected_blocks": 82400,
-    "num_produced_blocks": 81360
+    "num_expected_blocks": 82500,
+    "num_produced_blocks": 81460
   },
   {
     "account_id": "crypto-solutions.stakehouse.betanet",
